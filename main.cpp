@@ -33,7 +33,18 @@ void Effacer(RenderWindow& App,int x, int y){
 		
 	}
 }
+
+
+void Positionner_pions(RenderWindow& App, int *Position_Jaune) {   // Permet de réafficher les pions sur le tableau.
+	Image pion_jaune;
+	Sprite sprite_jaune;
 	
+	sprite_jaune.SetImage(pion_jaune);
+	sprite_jaune.SetPosition(Position_Jaune[0]*37,Position_Jaune[1]*37);
+	App.Draw(sprite_jaune);
+
+}
+
 
 void Move_Pion_Jaune(RenderWindow& App, char *move, int *Position_Jaune,int *Obstacle_Hor,int *Obstacle_Ver) {
 
@@ -56,20 +67,42 @@ void Move_Pion_Jaune(RenderWindow& App, char *move, int *Position_Jaune,int *Obs
 		// On calcule les position des bordures droite et gauche du pion
 		int position_bordure_droite = Position_Jaune[1]*16+15;
 		int position_bordure_gauche = Position_Jaune[1]*16;
+		int position_bordure_haut = Position_Jaune[0]*16;
+		int position_bordure_bas = Position_Jaune[0]*16+15;
 		
+		obs=0;
 		if(strcmp("Up", move)==0){                    // Mouvement en haut
+			for(i=0;i<25;i++){
+				if( positiony >= Obstacle_Hor[i] && Obstacle_Hor[i]> position_bordure_haut){
+					obs=1;
+					Position_Jaune[1]= (Obstacle_Hor[i])%16;
+					i=25;
+					
+				}			
+			}			
 			
-			// Positionne le pion au bon endroit   			
-			Position_Jaune[1]=0;
+			if(obs==0)   			
+				Position_Jaune[1]=0;
 		
 		}
 		
+		obs=0;
 		if(strcmp("Down", move)==0){                   // Mouvement en bas
-			// Positionne le pion au bon endroit
-			Position_Jaune[1]=15;
+			for(i=0;i<25;i++){
+				if( positiony < Obstacle_Hor[i] && Obstacle_Hor[i]< position_bordure_bas){
+					obs=1;
+					Position_Jaune[1]= (Obstacle_Hor[i])%16-1;
+					i=25;
+					
+				}			
+			}			
+			
+			if(obs==0)
+				Position_Jaune[1]=15;
 			
 		}
 		
+		obs=0;
 		if(strcmp("Right", move)==0){                   // Mouvement sur la droite
 			for(i=0;i<25;i++){
 				if( positionx < Obstacle_Ver[i] && Obstacle_Ver[i]< position_bordure_droite){
@@ -89,7 +122,7 @@ void Move_Pion_Jaune(RenderWindow& App, char *move, int *Position_Jaune,int *Obs
 		obs=0;
 		if(strcmp("Left", move)==0){                   // Mouvement sur la gauche
 			for(i=0;i<25;i++){
-				if( positionx > Obstacle_Ver[i] && Obstacle_Ver[i]> position_bordure_gauche){
+				if( positionx >= Obstacle_Ver[i] && Obstacle_Ver[i]> position_bordure_gauche){
 					obs=1;
 					Position_Jaune[0]= (Obstacle_Ver[i])%16;
 					i=25;
@@ -97,7 +130,7 @@ void Move_Pion_Jaune(RenderWindow& App, char *move, int *Position_Jaune,int *Obs
 			}
 			
 			if(obs==0){                      // si pas d'obstacle on positionne le pion à l'extremité de la table
-				Position_Jaune[0]=15;
+				Position_Jaune[0]=0;
 			}
 		}
 		
@@ -552,12 +585,15 @@ int main(int argc, const char** argv)
 						default :
 							break;
 					}
+					
 				}
 					break;
 					
 				default :
 					break;
 			}
+			
+			
         }
 		
 		App.Display();
