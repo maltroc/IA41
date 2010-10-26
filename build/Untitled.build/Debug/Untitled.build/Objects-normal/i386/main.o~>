@@ -1,0 +1,5 @@
+/Users/pierre-antoinemontez/Desktop/Untitled/main.cpp: In function 'int main(int, const char**)':
+/Users/pierre-antoinemontez/Desktop/Untitled/main.cpp:536: warning: deprecated conversion from string constant to 'char*'
+/Users/pierre-antoinemontez/Desktop/Untitled/main.cpp:540: warning: deprecated conversion from string constant to 'char*'
+/Users/pierre-antoinemontez/Desktop/Untitled/main.cpp:544: warning: deprecated conversion from string constant to 'char*'
+/Users/pierre-antoinemontez/Desktop/Untitled/main.cpp:548: warning: deprecated conversion from string constant to 'char*'

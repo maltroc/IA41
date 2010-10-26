@@ -1,0 +1,1972 @@
+TUntitled
+v7
+r0
+t309730275.054896
+cCheck dependencies
+cProcessInfoPlistFile /Users/pierre-antoinemontez/Desktop/Untitled/build/Debug/Untitled.app/Contents/Info.plist Info.plist
+cCpResource build/Debug/Untitled.app/Contents/Resources/case_dfl.jpg case_dfl.jpg
+cCpResource build/Debug/Untitled.app/Contents/Resources/case_centre_rouge4.jpg case_centre_rouge4.jpg
+cCpResource build/Debug/Untitled.app/Contents/Resources/case_centre_vert2.jpg case_centre_vert2.jpg
+cCpResource build/Debug/Untitled.app/Contents/Resources/case_centre_jaune2.jpg case_centre_jaune2.jpg
+cCpResource build/Debug/Untitled.app/Contents/Resources/case_centre_jaune3.jpg case_centre_jaune3.jpg
+cCpResource build/Debug/Untitled.app/Contents/Resources/case_centre_bleu3.jpg case_centre_bleu3.jpg
+cCpResource build/Debug/Untitled.app/Contents/Resources/case_centre_bleu2.jpg case_centre_bleu2.jpg
+cCpResource build/Debug/Untitled.app/Contents/Resources/case_centre_vert3.jpg case_centre_vert3.jpg
+cCpResource build/Debug/Untitled.app/Contents/Resources/case_centre_jaune4.jpg case_centre_jaune4.jpg
+cCpResource build/Debug/Untitled.app/Contents/Resources/case_centre_rouge1.jpg case_centre_rouge1.jpg
+cCpResource build/Debug/Untitled.app/Contents/Resources/case_centre_rouge3.jpg case_centre_rouge3.jpg
+cCpResource build/Debug/Untitled.app/Contents/Resources/case_centre_bleu1.jpg case_centre_bleu1.jpg
+cCpResource build/Debug/Untitled.app/Contents/Resources/case_centre_bleu4.jpg case_centre_bleu4.jpg
+cCpResource build/Debug/Untitled.app/Contents/Resources/case_centre_jaune1.jpg case_centre_jaune1.jpg
+cCpResource build/Debug/Untitled.app/Contents/Resources/case_centre_rouge2.jpg case_centre_rouge2.jpg
+cCpResource build/Debug/Untitled.app/Contents/Resources/case_centre_vert1.jpg case_centre_vert1.jpg
+cCpResource build/Debug/Untitled.app/Contents/Resources/case_centre_vert4.jpg case_centre_vert4.jpg
+cCpResource build/Debug/Untitled.app/Contents/Resources/obs1.jpg obs1.jpg
+cCpResource build/Debug/Untitled.app/Contents/Resources/obs2.jpg obs2.jpg
+cCpResource build/Debug/Untitled.app/Contents/Resources/pion_rouge.jpg pion_rouge.jpg
+cCpResource build/Debug/Untitled.app/Contents/Resources/pion_jaune.jpg pion_jaune.jpg
+cCpResource build/Debug/Untitled.app/Contents/Resources/pion_vert.jpg pion_vert.jpg
+cCpResource build/Debug/Untitled.app/Contents/Resources/pion_bleu.jpg pion_bleu.jpg
+cCpResource build/Debug/Untitled.app/Contents/Resources/cible_jaune3.jpg cible_jaune3.jpg
+cCpResource build/Debug/Untitled.app/Contents/Resources/cible_bleu4.jpg cible_bleu4.jpg
+cCpResource build/Debug/Untitled.app/Contents/Resources/cible_jaune2.jpg cible_jaune2.jpg
+cCpResource build/Debug/Untitled.app/Contents/Resources/cible_vert2.jpg cible_vert2.jpg
+cCpResource build/Debug/Untitled.app/Contents/Resources/cible_bleu2.jpg cible_bleu2.jpg
+cCpResource build/Debug/Untitled.app/Contents/Resources/cible_rouge4.jpg cible_rouge4.jpg
+cCpResource build/Debug/Untitled.app/Contents/Resources/cible_rouge1.jpg cible_rouge1.jpg
+cCpResource build/Debug/Untitled.app/Contents/Resources/cible_rouge2.jpg cible_rouge2.jpg
+cCpResource build/Debug/Untitled.app/Contents/Resources/cible_vert4.jpg cible_vert4.jpg
+cCpResource build/Debug/Untitled.app/Contents/Resources/cible_bleu1.jpg cible_bleu1.jpg
+cCpResource build/Debug/Untitled.app/Contents/Resources/cible_jaune4.jpg cible_jaune4.jpg
+cCpResource build/Debug/Untitled.app/Contents/Resources/cible_vert3.jpg cible_vert3.jpg
+cCpResource build/Debug/Untitled.app/Contents/Resources/cible_bleu3.jpg cible_bleu3.jpg
+cCpResource build/Debug/Untitled.app/Contents/Resources/cible_vert1.jpg cible_vert1.jpg
+cCpResource build/Debug/Untitled.app/Contents/Resources/cible_jaune1.jpg cible_jaune1.jpg
+cCpResource build/Debug/Untitled.app/Contents/Resources/cible_rouge3.jpg cible_rouge3.jpg
+cCpResource build/Debug/Untitled.app/Contents/Resources/Arial.ttf Arial.ttf
+cCompileC build/Untitled.build/Debug/Untitled.build/Objects-normal/i386/main.o /Users/pierre-antoinemontez/Desktop/Untitled/main.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Untitled.build/Debug/Untitled.build/Objects-normal/i386/fonctions.o /Users/pierre-antoinemontez/Desktop/Untitled/fonctions.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cLd /Users/pierre-antoinemontez/Desktop/Untitled/build/Debug/Untitled.app/Contents/MacOS/Untitled normal i386
+cPBXCp build/Debug/Untitled.app/Contents/Frameworks/sfml-system.framework /Library/Frameworks/sfml-system.framework
+cPBXCp build/Debug/Untitled.app/Contents/Frameworks/sfml-window.framework /Library/Frameworks/sfml-window.framework
+cPBXCp build/Debug/Untitled.app/Contents/Frameworks/sfml-graphics.framework /Library/Frameworks/sfml-graphics.framework
+cTouch /Users/pierre-antoinemontez/Desktop/Untitled/build/Debug/Untitled.app
+
+N/Library/Frameworks/SFML.framework/Headers/Config.hpp
+c000000004BBA04EA0000000000001274
+t1270482154
+s4724
+i<climits>
+
+N/Library/Frameworks/SFML.framework/Headers/Graphics.hpp
+c000000004BBA04EA00000000000006DA
+t1270482154
+s1754
+i<SFML/Window.hpp>
+i<SFML/Graphics/Color.hpp>
+i<SFML/Graphics/Font.hpp>
+i<SFML/Graphics/Glyph.hpp>
+i<SFML/Graphics/Image.hpp>
+i<SFML/Graphics/PostFX.hpp>
+i<SFML/Graphics/RenderWindow.hpp>
+i<SFML/Graphics/Shape.hpp>
+i<SFML/Graphics/Sprite.hpp>
+i<SFML/Graphics/String.hpp>
+i<SFML/Graphics/View.hpp>
+
+N/Library/Frameworks/SFML.framework/Headers/Graphics/Color.hpp
+c000000004BBA04EA0000000000001537
+t1270482154
+s5431
+i<SFML/Config.hpp>
+
+N/Library/Frameworks/SFML.framework/Headers/Graphics/Drawable.hpp
+c000000004BBA04EA00000000000035BC
+t1270482154
+s13756
+i<SFML/System/Vector2.hpp>
+i<SFML/Graphics/Color.hpp>
+i<SFML/Graphics/Matrix3.hpp>
+
+N/Library/Frameworks/SFML.framework/Headers/Graphics/Font.hpp
+c000000004BBA04EA0000000000001636
+t1270482154
+s5686
+i<SFML/System/Resource.hpp>
+i<SFML/System/Vector2.hpp>
+i<SFML/System/Unicode.hpp>
+i<SFML/Graphics/Glyph.hpp>
+i<SFML/Graphics/Image.hpp>
+i<SFML/Graphics/Rect.hpp>
+i<map>
+i<string>
+
+N/Library/Frameworks/SFML.framework/Headers/Graphics/Glyph.hpp
+c000000004BBA04EA00000000000008EB
+t1270482154
+s2283
+i<SFML/Config.hpp>
+i<SFML/Graphics/Rect.hpp>
+
+N/Library/Frameworks/SFML.framework/Headers/Graphics/Image.hpp
+c000000004BBA04EA000000000000347F
+t1270482154
+s13439
+i<SFML/System/Resource.hpp>
+i<SFML/Graphics/Color.hpp>
+i<SFML/Graphics/Rect.hpp>
+i<string>
+i<vector>
+
+N/Library/Frameworks/SFML.framework/Headers/Graphics/Matrix3.hpp
+c000000004BBA04EA0000000000001553
+t1270482154
+s5459
+i<SFML/Config.hpp>
+i<SFML/System/Vector2.hpp>
+i<math.h>
+i<SFML/Graphics/Matrix3.inl>
+
+N/Library/Frameworks/SFML.framework/Headers/Graphics/Matrix3.inl
+c000000004BBA04EA0000000000001F9A
+t1270482154
+s8090
+
+N/Library/Frameworks/SFML.framework/Headers/Graphics/PostFX.hpp
+c000000004BBA04EA0000000000001BF6
+t1270482154
+s7158
+i<SFML/Graphics/Drawable.hpp>
+i<SFML/Graphics/Image.hpp>
+i<istream>
+i<map>
+i<string>
+
+N/Library/Frameworks/SFML.framework/Headers/Graphics/Rect.hpp
+c000000004BBA04EA0000000000001241
+t1270482154
+s4673
+i<algorithm>
+i<SFML/Graphics/Rect.inl>
+
+N/Library/Frameworks/SFML.framework/Headers/Graphics/Rect.inl
+c000000004BBA04EA0000000000000F07
+t1270482154
+s3847
+
+N/Library/Frameworks/SFML.framework/Headers/Graphics/RenderTarget.hpp
+c000000004BBA04EA000000000000184F
+t1270482154
+s6223
+i<SFML/Graphics/Color.hpp>
+i<SFML/Graphics/View.hpp>
+i<SFML/Graphics/Rect.hpp>
+
+N/Library/Frameworks/SFML.framework/Headers/Graphics/RenderWindow.hpp
+c000000004BBA04EA00000000000014AD
+t1270482154
+s5293
+i<SFML/Graphics/Image.hpp>
+i<SFML/Graphics/RenderTarget.hpp>
+i<SFML/Window/Window.hpp>
+i<string>
+
+N/Library/Frameworks/SFML.framework/Headers/Graphics/Shape.hpp
+c000000004BBA04EA00000000000034E6
+t1270482154
+s13542
+i<SFML/Graphics/Drawable.hpp>
+i<SFML/System/Vector2.hpp>
+i<vector>
+
+N/Library/Frameworks/SFML.framework/Headers/Graphics/Sprite.hpp
+c000000004BBA04EA0000000000001A4A
+t1270482154
+s6730
+i<SFML/System/Resource.hpp>
+i<SFML/Graphics/Drawable.hpp>
+i<SFML/Graphics/Rect.hpp>
+
+N/Library/Frameworks/SFML.framework/Headers/Graphics/String.hpp
+c000000004BBA04EA0000000000001C60
+t1270482154
+s7264
+i<SFML/System/Resource.hpp>
+i<SFML/System/Unicode.hpp>
+i<SFML/Graphics/Drawable.hpp>
+i<SFML/Graphics/Font.hpp>
+i<SFML/Graphics/Rect.hpp>
+i<string>
+
+N/Library/Frameworks/SFML.framework/Headers/Graphics/View.hpp
+c000000004BBA04EA0000000000001BDB
+t1270482154
+s7131
+i<SFML/Config.hpp>
+i<SFML/Graphics/Rect.hpp>
+i<SFML/Graphics/Matrix3.hpp>
+i<SFML/System/Vector2.hpp>
+
+N/Library/Frameworks/SFML.framework/Headers/System.hpp
+c000000004BBA04EA000000000000069F
+t1270482154
+s1695
+i<SFML/Config.hpp>
+i<SFML/System/Clock.hpp>
+i<SFML/System/Lock.hpp>
+i<SFML/System/Mutex.hpp>
+i<SFML/System/Randomizer.hpp>
+i<SFML/System/Sleep.hpp>
+i<SFML/System/Thread.hpp>
+i<SFML/System/Unicode.hpp>
+i<SFML/System/Vector2.hpp>
+i<SFML/System/Vector3.hpp>
+
+N/Library/Frameworks/SFML.framework/Headers/System/Clock.hpp
+c000000004BBA04EA00000000000009C4
+t1270482154
+s2500
+i<SFML/Config.hpp>
+
+N/Library/Frameworks/SFML.framework/Headers/System/Lock.hpp
+c000000004BBA04EA0000000000000958
+t1270482154
+s2392
+i<SFML/System/NonCopyable.hpp>
+
+N/Library/Frameworks/SFML.framework/Headers/System/Mutex.hpp
+c000000004BBA04EA00000000000005ED
+t1270482154
+s1517
+i<SFML/Config.hpp>
+i<SFML/System/Win32/Mutex.hpp>
+i<SFML/System/Unix/Mutex.hpp>
+
+N/Library/Frameworks/SFML.framework/Headers/System/NonCopyable.hpp
+c000000004BBA04EA0000000000000A09
+t1270482154
+s2569
+i<SFML/Config.hpp>
+
+N/Library/Frameworks/SFML.framework/Headers/System/Randomizer.hpp
+c000000004BBA04EA0000000000000D0C
+t1270482154
+s3340
+i<SFML/Config.hpp>
+
+N/Library/Frameworks/SFML.framework/Headers/System/Resource.hpp
+c000000004BBA04EA0000000000001D40
+t1270482154
+s7488
+i<set>
+i<SFML/System/Resource.inl>
+i<SFML/System/ResourcePtr.inl>
+
+N/Library/Frameworks/SFML.framework/Headers/System/Resource.inl
+c000000004BBA04EA0000000000000B74
+t1270482154
+s2932
+
+N/Library/Frameworks/SFML.framework/Headers/System/ResourcePtr.inl
+c000000004BBA04EA0000000000001193
+t1270482154
+s4499
+
+N/Library/Frameworks/SFML.framework/Headers/System/Sleep.hpp
+c000000004BBA04EA00000000000006C5
+t1270482154
+s1733
+i<SFML/Config.hpp>
+
+N/Library/Frameworks/SFML.framework/Headers/System/Thread.hpp
+c000000004BBA04EA00000000000005F2
+t1270482154
+s1522
+i<SFML/Config.hpp>
+i<SFML/System/Win32/Thread.hpp>
+i<SFML/System/Unix/Thread.hpp>
+
+N/Library/Frameworks/SFML.framework/Headers/System/Unicode.hpp
+c000000004BBA04EA0000000000003745
+t1270482154
+s14149
+i<SFML/Config.hpp>
+i<iterator>
+i<locale>
+i<string>
+i<stdlib.h>
+i<SFML/System/Unicode.inl>
+
+N/Library/Frameworks/SFML.framework/Headers/System/Unicode.inl
+c000000004BBA04EA0000000000003F66
+t1270482154
+s16230
+
+N/Library/Frameworks/SFML.framework/Headers/System/Unix/Mutex.hpp
+c000000004BBA04EA0000000000000B01
+t1270482154
+s2817
+i<SFML/System/NonCopyable.hpp>
+i<pthread.h>
+
+N/Library/Frameworks/SFML.framework/Headers/System/Unix/Thread.hpp
+c000000004BBA04EA0000000000001153
+t1270482154
+s4435
+i<SFML/System/NonCopyable.hpp>
+i<pthread.h>
+
+N/Library/Frameworks/SFML.framework/Headers/System/Vector2.hpp
+c000000004BBA04EA0000000000001A8A
+t1270482154
+s6794
+i<SFML/System/Vector2.inl>
+
+N/Library/Frameworks/SFML.framework/Headers/System/Vector2.inl
+c000000004BBA04EA000000000000155E
+t1270482154
+s5470
+
+N/Library/Frameworks/SFML.framework/Headers/System/Vector3.hpp
+c000000004BBA04EA0000000000001ADA
+t1270482154
+s6874
+i<SFML/System/Vector3.inl>
+
+N/Library/Frameworks/SFML.framework/Headers/System/Vector3.inl
+c000000004BBA04EA0000000000001614
+t1270482154
+s5652
+
+N/Library/Frameworks/SFML.framework/Headers/Window.hpp
+c000000004BBA04EA000000000000069A
+t1270482154
+s1690
+i<SFML/System.hpp>
+i<SFML/Window/Context.hpp>
+i<SFML/Window/Event.hpp>
+i<SFML/Window/Input.hpp>
+i<SFML/Window/VideoMode.hpp>
+i<SFML/Window/Window.hpp>
+i<SFML/Window/WindowListener.hpp>
+i<SFML/Window/WindowStyle.hpp>
+i<SFML/Window/OpenGL.hpp>
+
+N/Library/Frameworks/SFML.framework/Headers/Window/Context.hpp
+c000000004BBA04EA0000000000000D8E
+t1270482154
+s3470
+i<SFML/Config.hpp>
+i<SFML/System/NonCopyable.hpp>
+
+N/Library/Frameworks/SFML.framework/Headers/Window/Event.hpp
+c000000004BBA04EA0000000000001F88
+t1270482154
+s8072
+i<SFML/Config.hpp>
+
+N/Library/Frameworks/SFML.framework/Headers/Window/Input.hpp
+c000000004BBA04EA000000000000156B
+t1270482154
+s5483
+i<SFML/Config.hpp>
+i<SFML/System/NonCopyable.hpp>
+i<SFML/Window/Event.hpp>
+i<SFML/Window/WindowListener.hpp>
+
+N/Library/Frameworks/SFML.framework/Headers/Window/OpenGL.hpp
+c000000004BBA04EA00000000000007AC
+t1270482154
+s1964
+i<SFML/Config.hpp>
+i<windows.h>
+i<GL/gl.h>
+i<GL/glu.h>
+i<GL/gl.h>
+i<GL/glu.h>
+i<OpenGL/gl.h>
+i<OpenGL/glu.h>
+
+N/Library/Frameworks/SFML.framework/Headers/Window/VideoMode.hpp
+c000000004BBA04EA00000000000013FE
+t1270482154
+s5118
+i<SFML/Config.hpp>
+i<cstdlib>
+
+N/Library/Frameworks/SFML.framework/Headers/Window/Window.hpp
+c000000004BBA04EA0000000000003384
+t1270482154
+s13188
+i<SFML/Window/Event.hpp>
+i<SFML/Window/Input.hpp>
+i<SFML/Window/VideoMode.hpp>
+i<SFML/Window/WindowHandle.hpp>
+i<SFML/Window/WindowListener.hpp>
+i<SFML/Window/WindowSettings.hpp>
+i<SFML/Window/WindowStyle.hpp>
+i<SFML/System/Clock.hpp>
+i<SFML/System/NonCopyable.hpp>
+i<queue>
+i<string>
+
+N/Library/Frameworks/SFML.framework/Headers/Window/WindowHandle.hpp
+c000000004BBA04EA00000000000007CB
+t1270482154
+s1995
+i<SFML/Config.hpp>
+
+N/Library/Frameworks/SFML.framework/Headers/Window/WindowListener.hpp
+c000000004BBA04EA00000000000008DD
+t1270482154
+s2269
+i<SFML/Config.hpp>
+
+N/Library/Frameworks/SFML.framework/Headers/Window/WindowSettings.hpp
+c000000004BBA04EA000000000000098E
+t1270482154
+s2446
+
+N/Library/Frameworks/SFML.framework/Headers/Window/WindowStyle.hpp
+c000000004BBA04EA0000000000000768
+t1270482154
+s1896
+
+N/Library/Frameworks/sfml-graphics.framework
+c000000004BBA04E900000000000000AA
+t1270482153
+s170
+
+N/Library/Frameworks/sfml-graphics.framework/sfml-graphics
+c000000004BBA04E9000000000043FD1C
+t1270482153
+s4455708
+
+N/Library/Frameworks/sfml-system.framework
+c000000004BBA04E900000000000000AA
+t1270482153
+s170
+
+N/Library/Frameworks/sfml-system.framework/sfml-system
+c000000004BBA04E9000000000012FE88
+t1270482153
+s1244808
+
+N/Library/Frameworks/sfml-window.framework
+c000000004BBA04E900000000000000AA
+t1270482153
+s170
+
+N/Library/Frameworks/sfml-window.framework/sfml-window
+c000000004BBA04EA000000000014EB18
+t1270482154
+s1370904
+
+N/System/Library/Frameworks/OpenGL.framework/Headers/gl.h
+c000000004B824D230000000000025B59
+t1266830627
+s154457
+
+N/System/Library/Frameworks/OpenGL.framework/Headers/glu.h
+c000000004B824D230000000000003F84
+t1266830627
+s16260
+
+N/Users/adrien/Programmation/C++/Untitled/Arial.ttf
+c000000004CC453D700000000000BCC74
+t1287934935
+s773236
+
+N/Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app
+t1287938664
+s102
+
+N/Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app/Contents/Frameworks/sfml-graphics.framework
+t1287814555
+s170
+
+N/Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app/Contents/Frameworks/sfml-system.framework
+t1287814555
+s170
+
+N/Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app/Contents/Frameworks/sfml-window.framework
+t1287814555
+s170
+
+N/Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app/Contents/Info.plist
+t1287814554
+s606
+
+N/Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app/Contents/MacOS/Untitled
+t1287938664
+s79844
+
+N/Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app/Contents/PkgInfo
+t1287814554
+s8
+
+N/Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app/Contents/Resources/Arial.ttf
+t1287935095
+s773236
+
+N/Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app/Contents/Resources/case_centre_bleu1.jpg
+t1287902576
+s5749
+
+N/Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app/Contents/Resources/case_centre_bleu2.jpg
+t1287902576
+s9563
+
+N/Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app/Contents/Resources/case_centre_bleu3.jpg
+t1287902576
+s9963
+
+N/Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app/Contents/Resources/case_centre_bleu4.jpg
+t1287902576
+s6624
+
+N/Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app/Contents/Resources/case_centre_jaune1.jpg
+t1287902576
+s6671
+
+N/Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app/Contents/Resources/case_centre_jaune2.jpg
+t1287902576
+s9453
+
+N/Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app/Contents/Resources/case_centre_jaune3.jpg
+t1287902576
+s9842
+
+N/Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app/Contents/Resources/case_centre_jaune4.jpg
+t1287902576
+s6091
+
+N/Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app/Contents/Resources/case_centre_rouge1.jpg
+t1287902576
+s6307
+
+N/Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app/Contents/Resources/case_centre_rouge2.jpg
+t1287902576
+s9432
+
+N/Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app/Contents/Resources/case_centre_rouge3.jpg
+t1287902576
+s9810
+
+N/Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app/Contents/Resources/case_centre_rouge4.jpg
+t1287902576
+s6546
+
+N/Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app/Contents/Resources/case_centre_vert.jpg
+t1287836591
+s8620
+
+N/Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app/Contents/Resources/case_centre_vert1.jpg
+t1287902576
+s4509
+
+N/Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app/Contents/Resources/case_centre_vert2.jpg
+t1287902576
+s9501
+
+N/Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app/Contents/Resources/case_centre_vert3.jpg
+t1287902576
+s10027
+
+N/Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app/Contents/Resources/case_centre_vert4.jpg
+t1287902576
+s6509
+
+N/Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app/Contents/Resources/case_cible_vert.jpg
+t1287835843
+s2949
+
+N/Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app/Contents/Resources/case_dfl.jpg
+t1287834937
+s2574
+
+N/Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app/Contents/Resources/case_pion_bleu.jpg
+t1287836591
+s3199
+
+N/Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app/Contents/Resources/case_pion_rouge.jpg
+t1287836591
+s3262
+
+N/Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app/Contents/Resources/case_pion_vert.jpg
+t1287836591
+s3115
+
+N/Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app/Contents/Resources/cible_bleu1.jpg
+t1287933977
+s1472
+
+N/Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app/Contents/Resources/cible_bleu2.jpg
+t1287933977
+s1525
+
+N/Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app/Contents/Resources/cible_bleu3.jpg
+t1287933977
+s1459
+
+N/Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app/Contents/Resources/cible_bleu4.jpg
+t1287933977
+s1390
+
+N/Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app/Contents/Resources/cible_jaune1.jpg
+t1287933977
+s1441
+
+N/Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app/Contents/Resources/cible_jaune2.jpg
+t1287933977
+s1497
+
+N/Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app/Contents/Resources/cible_jaune3.jpg
+t1287933977
+s1429
+
+N/Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app/Contents/Resources/cible_jaune4.jpg
+t1287933977
+s1527
+
+N/Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app/Contents/Resources/cible_rouge1.jpg
+t1287933977
+s1453
+
+N/Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app/Contents/Resources/cible_rouge2.jpg
+t1287933977
+s1526
+
+N/Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app/Contents/Resources/cible_rouge3.jpg
+t1287933977
+s1438
+
+N/Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app/Contents/Resources/cible_rouge4.jpg
+t1287933977
+s1454
+
+N/Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app/Contents/Resources/cible_vert1.jpg
+t1287933977
+s1448
+
+N/Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app/Contents/Resources/cible_vert2.jpg
+t1287933977
+s1512
+
+N/Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app/Contents/Resources/cible_vert3.jpg
+t1287933977
+s1386
+
+N/Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app/Contents/Resources/cible_vert4.jpg
+t1287933977
+s1527
+
+N/Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app/Contents/Resources/obs1.jpg
+t1287919775
+s2651
+
+N/Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app/Contents/Resources/obs2.jpg
+t1287919775
+s2450
+
+N/Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app/Contents/Resources/pion_bleu.jpg
+t1287926603
+s2409
+
+N/Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app/Contents/Resources/pion_jaune.jpg
+t1287926603
+s2409
+
+N/Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app/Contents/Resources/pion_rouge.jpg
+t1287926603
+s2395
+
+N/Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app/Contents/Resources/pion_vert.jpg
+t1287926603
+s2409
+
+N/Users/adrien/Programmation/C++/Untitled/build/Untitled.build/Debug/Untitled.build/Objects-normal/i386/Untitled.LinkFileList
+c000000004CC2E23F00000000000000E1
+t1287840319
+s225
+
+N/Users/adrien/Programmation/C++/Untitled/build/Untitled.build/Debug/Untitled.build/Objects-normal/i386/centre.o
+t1287840253
+s161484
+
+N/Users/adrien/Programmation/C++/Untitled/build/Untitled.build/Debug/Untitled.build/Objects-normal/i386/fonctions.o
+t1287918670
+s1220
+
+N/Users/adrien/Programmation/C++/Untitled/build/Untitled.build/Debug/Untitled.build/Objects-normal/i386/fonctions.s
+t1287842394
+s728479
+
+N/Users/adrien/Programmation/C++/Untitled/build/Untitled.build/Debug/Untitled.build/Objects-normal/i386/main.o
+t1287938664
+s325976
+
+N/Users/adrien/Programmation/C++/Untitled/case_centre_bleu1.jpg
+c000000004CC3D1320000000000001675
+t1287901490
+s5749
+
+N/Users/adrien/Programmation/C++/Untitled/case_centre_bleu2.jpg
+c000000004CC3D1CC000000000000255B
+t1287901644
+s9563
+
+N/Users/adrien/Programmation/C++/Untitled/case_centre_bleu3.jpg
+c000000004CC3D45F00000000000026EB
+t1287902303
+s9963
+
+N/Users/adrien/Programmation/C++/Untitled/case_centre_bleu4.jpg
+c000000004CC3D4C100000000000019E0
+t1287902401
+s6624
+
+N/Users/adrien/Programmation/C++/Untitled/case_centre_jaune1.jpg
+c000000004CC3D2E50000000000001A0F
+t1287901925
+s6671
+
+N/Users/adrien/Programmation/C++/Untitled/case_centre_jaune2.jpg
+c000000004CC3D3E100000000000024ED
+t1287902177
+s9453
+
+N/Users/adrien/Programmation/C++/Untitled/case_centre_jaune3.jpg
+c000000004CC3D19C0000000000002672
+t1287901596
+s9842
+
+N/Users/adrien/Programmation/C++/Untitled/case_centre_jaune4.jpg
+c000000004CC3D0ED00000000000017CB
+t1287901421
+s6091
+
+N/Users/adrien/Programmation/C++/Untitled/case_centre_rouge1.jpg
+c000000004CC3D28900000000000018A3
+t1287901833
+s6307
+
+N/Users/adrien/Programmation/C++/Untitled/case_centre_rouge2.jpg
+c000000004CC3D39C00000000000024D8
+t1287902108
+s9432
+
+N/Users/adrien/Programmation/C++/Untitled/case_centre_rouge3.jpg
+c000000004CC3D4960000000000002652
+t1287902358
+s9810
+
+N/Users/adrien/Programmation/C++/Untitled/case_centre_rouge4.jpg
+c000000004CC3D4E80000000000001992
+t1287902440
+s6546
+
+N/Users/adrien/Programmation/C++/Untitled/case_centre_vert.jpg
+c000000004CC2D2CF00000000000021AC
+t1287836367
+s8620
+
+N/Users/adrien/Programmation/C++/Untitled/case_centre_vert1.jpg
+c000000004CC3D16E000000000000119D
+t1287901550
+s4509
+
+N/Users/adrien/Programmation/C++/Untitled/case_centre_vert2.jpg
+c000000004CC3D3CB000000000000251D
+t1287902155
+s9501
+
+N/Users/adrien/Programmation/C++/Untitled/case_centre_vert3.jpg
+c000000004CC3D479000000000000272B
+t1287902329
+s10027
+
+N/Users/adrien/Programmation/C++/Untitled/case_centre_vert4.jpg
+c000000004CC3D4D5000000000000196D
+t1287902421
+s6509
+
+N/Users/adrien/Programmation/C++/Untitled/case_cible_vert.jpg
+c000000004CC2D08D0000000000000B85
+t1287835789
+s2949
+
+N/Users/adrien/Programmation/C++/Untitled/case_dfl.jpg
+c000000004CC2828D0000000000000A0E
+t1287815821
+s2574
+
+N/Users/adrien/Programmation/C++/Untitled/case_pion_bleu.jpg
+c000000004CC2D1E90000000000000C7F
+t1287836137
+s3199
+
+N/Users/adrien/Programmation/C++/Untitled/case_pion_rouge.jpg
+c000000004CC2D20E0000000000000CBE
+t1287836174
+s3262
+
+N/Users/adrien/Programmation/C++/Untitled/case_pion_vert.jpg
+c000000004CC2D23F0000000000000C2B
+t1287836223
+s3115
+
+N/Users/adrien/Programmation/C++/Untitled/centre.cpp
+c000000004CC2E1FC0000000000000549
+t1287840252
+s1353
+i<SFML/Graphics.hpp>
+i<SFML/System.hpp>
+i<SFML/Graphics/Sprite.hpp>
+i<SFML/Graphics/Image.hpp>
+i<SFML/System/Vector2.hpp>
+i<iostream>
+i<string>
+
+N/Users/adrien/Programmation/C++/Untitled/cible_bleu1.jpg
+c000000004CC4395D00000000000005C0
+t1287928157
+s1472
+
+N/Users/adrien/Programmation/C++/Untitled/cible_bleu2.jpg
+c000000004CC43A4200000000000005F5
+t1287928386
+s1525
+
+N/Users/adrien/Programmation/C++/Untitled/cible_bleu3.jpg
+c000000004CC43AA600000000000005B3
+t1287928486
+s1459
+
+N/Users/adrien/Programmation/C++/Untitled/cible_bleu4.jpg
+c000000004CC43B07000000000000056E
+t1287928583
+s1390
+
+N/Users/adrien/Programmation/C++/Untitled/cible_jaune1.jpg
+c000000004CC4399100000000000005A1
+t1287928209
+s1441
+
+N/Users/adrien/Programmation/C++/Untitled/cible_jaune2.jpg
+c000000004CC43A1500000000000005D9
+t1287928341
+s1497
+
+N/Users/adrien/Programmation/C++/Untitled/cible_jaune3.jpg
+c000000004CC43AD30000000000000595
+t1287928531
+s1429
+
+N/Users/adrien/Programmation/C++/Untitled/cible_jaune4.jpg
+c000000004CC43B4B00000000000005F7
+t1287928651
+s1527
+
+N/Users/adrien/Programmation/C++/Untitled/cible_rouge1.jpg
+c000000004CC4391A00000000000005AD
+t1287928090
+s1453
+
+N/Users/adrien/Programmation/C++/Untitled/cible_rouge2.jpg
+c000000004CC43A5A00000000000005F6
+t1287928410
+s1526
+
+N/Users/adrien/Programmation/C++/Untitled/cible_rouge3.jpg
+c000000004CC43ABF000000000000059E
+t1287928511
+s1438
+
+N/Users/adrien/Programmation/C++/Untitled/cible_rouge4.jpg
+c000000004CC43B1E00000000000005AE
+t1287928606
+s1454
+
+N/Users/adrien/Programmation/C++/Untitled/cible_vert1.jpg
+c000000004CC4397400000000000005A8
+t1287928180
+s1448
+
+N/Users/adrien/Programmation/C++/Untitled/cible_vert2.jpg
+c000000004CC43A2A00000000000005E8
+t1287928362
+s1512
+
+N/Users/adrien/Programmation/C++/Untitled/cible_vert3.jpg
+c000000004CC43A91000000000000056A
+t1287928465
+s1386
+
+N/Users/adrien/Programmation/C++/Untitled/cible_vert4.jpg
+c000000004CC43B3400000000000005F7
+t1287928628
+s1527
+
+N/Users/adrien/Programmation/C++/Untitled/fonctions.cpp
+c000000004CC4144E0000000000000001
+t1287918670
+s1
+
+N/Users/adrien/Programmation/C++/Untitled/fonctions.h
+c000000004CC42E5C000000000000016F
+t1287925340
+s367
+i<SFML/Graphics.hpp>
+i<stdio.h>
+i<stdlib.h>
+i<time.h>
+
+N/Users/adrien/Programmation/C++/Untitled/main.cpp
+c000000004CC46267000000000000285C
+t1287938663
+s10332
+i"fonctions.h"
+i<iostream>
+i<string>
+
+N/Users/adrien/Programmation/C++/Untitled/obs1.jpg
+c000000004CC2E1060000000000000A5B
+t1287840006
+s2651
+
+N/Users/adrien/Programmation/C++/Untitled/obs2.jpg
+c000000004CC2E1060000000000000992
+t1287840006
+s2450
+
+N/Users/adrien/Programmation/C++/Untitled/pion_bleu.jpg
+c000000004CC432200000000000000969
+t1287926304
+s2409
+
+N/Users/adrien/Programmation/C++/Untitled/pion_jaune.jpg
+c000000004CC431F00000000000000969
+t1287926256
+s2409
+
+N/Users/adrien/Programmation/C++/Untitled/pion_rouge.jpg
+c000000004CC4323C000000000000095B
+t1287926332
+s2395
+
+N/Users/adrien/Programmation/C++/Untitled/pion_vert.jpg
+c000000004CC432080000000000000969
+t1287926280
+s2409
+
+N/Users/pierre-antoinemontez/Desktop/Untitled/Arial.ttf
+c000000004CC453D700000000000BCC74
+t1287934935
+s773236
+
+N/Users/pierre-antoinemontez/Desktop/Untitled/build/Debug/Untitled.app
+t1288037475
+s102
+
+N/Users/pierre-antoinemontez/Desktop/Untitled/build/Debug/Untitled.app/Contents/Frameworks/sfml-graphics.framework
+t1287939965
+s170
+
+N/Users/pierre-antoinemontez/Desktop/Untitled/build/Debug/Untitled.app/Contents/Frameworks/sfml-system.framework
+t1287939965
+s170
+
+N/Users/pierre-antoinemontez/Desktop/Untitled/build/Debug/Untitled.app/Contents/Frameworks/sfml-window.framework
+t1287939965
+s170
+
+N/Users/pierre-antoinemontez/Desktop/Untitled/build/Debug/Untitled.app/Contents/Info.plist
+t1287814554
+s606
+
+N/Users/pierre-antoinemontez/Desktop/Untitled/build/Debug/Untitled.app/Contents/MacOS/Untitled
+t1288037475
+s84488
+
+N/Users/pierre-antoinemontez/Desktop/Untitled/build/Debug/Untitled.app/Contents/PkgInfo
+t1287814554
+s8
+
+N/Users/pierre-antoinemontez/Desktop/Untitled/build/Debug/Untitled.app/Contents/Resources/Arial.ttf
+t1287935095
+s773236
+
+N/Users/pierre-antoinemontez/Desktop/Untitled/build/Debug/Untitled.app/Contents/Resources/case_centre_bleu1.jpg
+t1287902576
+s5749
+
+N/Users/pierre-antoinemontez/Desktop/Untitled/build/Debug/Untitled.app/Contents/Resources/case_centre_bleu2.jpg
+t1287902576
+s9563
+
+N/Users/pierre-antoinemontez/Desktop/Untitled/build/Debug/Untitled.app/Contents/Resources/case_centre_bleu3.jpg
+t1287902576
+s9963
+
+N/Users/pierre-antoinemontez/Desktop/Untitled/build/Debug/Untitled.app/Contents/Resources/case_centre_bleu4.jpg
+t1287902576
+s6624
+
+N/Users/pierre-antoinemontez/Desktop/Untitled/build/Debug/Untitled.app/Contents/Resources/case_centre_jaune1.jpg
+t1287902576
+s6671
+
+N/Users/pierre-antoinemontez/Desktop/Untitled/build/Debug/Untitled.app/Contents/Resources/case_centre_jaune2.jpg
+t1287902576
+s9453
+
+N/Users/pierre-antoinemontez/Desktop/Untitled/build/Debug/Untitled.app/Contents/Resources/case_centre_jaune3.jpg
+t1287902576
+s9842
+
+N/Users/pierre-antoinemontez/Desktop/Untitled/build/Debug/Untitled.app/Contents/Resources/case_centre_jaune4.jpg
+t1287902576
+s6091
+
+N/Users/pierre-antoinemontez/Desktop/Untitled/build/Debug/Untitled.app/Contents/Resources/case_centre_rouge1.jpg
+t1287902576
+s6307
+
+N/Users/pierre-antoinemontez/Desktop/Untitled/build/Debug/Untitled.app/Contents/Resources/case_centre_rouge2.jpg
+t1287902576
+s9432
+
+N/Users/pierre-antoinemontez/Desktop/Untitled/build/Debug/Untitled.app/Contents/Resources/case_centre_rouge3.jpg
+t1287902576
+s9810
+
+N/Users/pierre-antoinemontez/Desktop/Untitled/build/Debug/Untitled.app/Contents/Resources/case_centre_rouge4.jpg
+t1287902576
+s6546
+
+N/Users/pierre-antoinemontez/Desktop/Untitled/build/Debug/Untitled.app/Contents/Resources/case_centre_vert1.jpg
+t1287902576
+s4509
+
+N/Users/pierre-antoinemontez/Desktop/Untitled/build/Debug/Untitled.app/Contents/Resources/case_centre_vert2.jpg
+t1287902576
+s9501
+
+N/Users/pierre-antoinemontez/Desktop/Untitled/build/Debug/Untitled.app/Contents/Resources/case_centre_vert3.jpg
+t1287902576
+s10027
+
+N/Users/pierre-antoinemontez/Desktop/Untitled/build/Debug/Untitled.app/Contents/Resources/case_centre_vert4.jpg
+t1287902576
+s6509
+
+N/Users/pierre-antoinemontez/Desktop/Untitled/build/Debug/Untitled.app/Contents/Resources/case_dfl.jpg
+t1287834937
+s2574
+
+N/Users/pierre-antoinemontez/Desktop/Untitled/build/Debug/Untitled.app/Contents/Resources/cible_bleu1.jpg
+t1287933977
+s1472
+
+N/Users/pierre-antoinemontez/Desktop/Untitled/build/Debug/Untitled.app/Contents/Resources/cible_bleu2.jpg
+t1287933977
+s1525
+
+N/Users/pierre-antoinemontez/Desktop/Untitled/build/Debug/Untitled.app/Contents/Resources/cible_bleu3.jpg
+t1287933977
+s1459
+
+N/Users/pierre-antoinemontez/Desktop/Untitled/build/Debug/Untitled.app/Contents/Resources/cible_bleu4.jpg
+t1287933977
+s1390
+
+N/Users/pierre-antoinemontez/Desktop/Untitled/build/Debug/Untitled.app/Contents/Resources/cible_jaune1.jpg
+t1287933977
+s1441
+
+N/Users/pierre-antoinemontez/Desktop/Untitled/build/Debug/Untitled.app/Contents/Resources/cible_jaune2.jpg
+t1287933977
+s1497
+
+N/Users/pierre-antoinemontez/Desktop/Untitled/build/Debug/Untitled.app/Contents/Resources/cible_jaune3.jpg
+t1287933977
+s1429
+
+N/Users/pierre-antoinemontez/Desktop/Untitled/build/Debug/Untitled.app/Contents/Resources/cible_jaune4.jpg
+t1287933977
+s1527
+
+N/Users/pierre-antoinemontez/Desktop/Untitled/build/Debug/Untitled.app/Contents/Resources/cible_rouge1.jpg
+t1287933977
+s1453
+
+N/Users/pierre-antoinemontez/Desktop/Untitled/build/Debug/Untitled.app/Contents/Resources/cible_rouge2.jpg
+t1287933977
+s1526
+
+N/Users/pierre-antoinemontez/Desktop/Untitled/build/Debug/Untitled.app/Contents/Resources/cible_rouge3.jpg
+t1287933977
+s1438
+
+N/Users/pierre-antoinemontez/Desktop/Untitled/build/Debug/Untitled.app/Contents/Resources/cible_rouge4.jpg
+t1287933977
+s1454
+
+N/Users/pierre-antoinemontez/Desktop/Untitled/build/Debug/Untitled.app/Contents/Resources/cible_vert1.jpg
+t1287933977
+s1448
+
+N/Users/pierre-antoinemontez/Desktop/Untitled/build/Debug/Untitled.app/Contents/Resources/cible_vert2.jpg
+t1287933977
+s1512
+
+N/Users/pierre-antoinemontez/Desktop/Untitled/build/Debug/Untitled.app/Contents/Resources/cible_vert3.jpg
+t1287933977
+s1386
+
+N/Users/pierre-antoinemontez/Desktop/Untitled/build/Debug/Untitled.app/Contents/Resources/cible_vert4.jpg
+t1287933977
+s1527
+
+N/Users/pierre-antoinemontez/Desktop/Untitled/build/Debug/Untitled.app/Contents/Resources/obs1.jpg
+t1287919775
+s2651
+
+N/Users/pierre-antoinemontez/Desktop/Untitled/build/Debug/Untitled.app/Contents/Resources/obs2.jpg
+t1287919775
+s2450
+
+N/Users/pierre-antoinemontez/Desktop/Untitled/build/Debug/Untitled.app/Contents/Resources/pion_bleu.jpg
+t1287926603
+s2409
+
+N/Users/pierre-antoinemontez/Desktop/Untitled/build/Debug/Untitled.app/Contents/Resources/pion_jaune.jpg
+t1287926603
+s2409
+
+N/Users/pierre-antoinemontez/Desktop/Untitled/build/Debug/Untitled.app/Contents/Resources/pion_rouge.jpg
+t1287926603
+s2395
+
+N/Users/pierre-antoinemontez/Desktop/Untitled/build/Debug/Untitled.app/Contents/Resources/pion_vert.jpg
+t1287926603
+s2409
+
+N/Users/pierre-antoinemontez/Desktop/Untitled/build/Untitled.build/Debug/Untitled.build/Objects-normal/i386/Untitled.LinkFileList
+c000000004CC4679A00000000000000E9
+t1287939994
+s233
+
+N/Users/pierre-antoinemontez/Desktop/Untitled/build/Untitled.build/Debug/Untitled.build/Objects-normal/i386/fonctions.o
+t1287918670
+s1220
+
+N/Users/pierre-antoinemontez/Desktop/Untitled/build/Untitled.build/Debug/Untitled.build/Objects-normal/i386/main.o
+t1288037474
+s331460
+
+N/Users/pierre-antoinemontez/Desktop/Untitled/case_centre_bleu1.jpg
+c000000004CC3D1320000000000001675
+t1287901490
+s5749
+
+N/Users/pierre-antoinemontez/Desktop/Untitled/case_centre_bleu2.jpg
+c000000004CC3D1CC000000000000255B
+t1287901644
+s9563
+
+N/Users/pierre-antoinemontez/Desktop/Untitled/case_centre_bleu3.jpg
+c000000004CC3D45F00000000000026EB
+t1287902303
+s9963
+
+N/Users/pierre-antoinemontez/Desktop/Untitled/case_centre_bleu4.jpg
+c000000004CC3D4C100000000000019E0
+t1287902401
+s6624
+
+N/Users/pierre-antoinemontez/Desktop/Untitled/case_centre_jaune1.jpg
+c000000004CC3D2E50000000000001A0F
+t1287901925
+s6671
+
+N/Users/pierre-antoinemontez/Desktop/Untitled/case_centre_jaune2.jpg
+c000000004CC3D3E100000000000024ED
+t1287902177
+s9453
+
+N/Users/pierre-antoinemontez/Desktop/Untitled/case_centre_jaune3.jpg
+c000000004CC3D19C0000000000002672
+t1287901596
+s9842
+
+N/Users/pierre-antoinemontez/Desktop/Untitled/case_centre_jaune4.jpg
+c000000004CC3D0ED00000000000017CB
+t1287901421
+s6091
+
+N/Users/pierre-antoinemontez/Desktop/Untitled/case_centre_rouge1.jpg
+c000000004CC3D28900000000000018A3
+t1287901833
+s6307
+
+N/Users/pierre-antoinemontez/Desktop/Untitled/case_centre_rouge2.jpg
+c000000004CC3D39C00000000000024D8
+t1287902108
+s9432
+
+N/Users/pierre-antoinemontez/Desktop/Untitled/case_centre_rouge3.jpg
+c000000004CC3D4960000000000002652
+t1287902358
+s9810
+
+N/Users/pierre-antoinemontez/Desktop/Untitled/case_centre_rouge4.jpg
+c000000004CC3D4E80000000000001992
+t1287902440
+s6546
+
+N/Users/pierre-antoinemontez/Desktop/Untitled/case_centre_vert1.jpg
+c000000004CC3D16E000000000000119D
+t1287901550
+s4509
+
+N/Users/pierre-antoinemontez/Desktop/Untitled/case_centre_vert2.jpg
+c000000004CC3D3CB000000000000251D
+t1287902155
+s9501
+
+N/Users/pierre-antoinemontez/Desktop/Untitled/case_centre_vert3.jpg
+c000000004CC3D479000000000000272B
+t1287902329
+s10027
+
+N/Users/pierre-antoinemontez/Desktop/Untitled/case_centre_vert4.jpg
+c000000004CC3D4D5000000000000196D
+t1287902421
+s6509
+
+N/Users/pierre-antoinemontez/Desktop/Untitled/case_dfl.jpg
+c000000004CC2828D0000000000000A0E
+t1287815821
+s2574
+
+N/Users/pierre-antoinemontez/Desktop/Untitled/cible_bleu1.jpg
+c000000004CC4395D00000000000005C0
+t1287928157
+s1472
+
+N/Users/pierre-antoinemontez/Desktop/Untitled/cible_bleu2.jpg
+c000000004CC43A4200000000000005F5
+t1287928386
+s1525
+
+N/Users/pierre-antoinemontez/Desktop/Untitled/cible_bleu3.jpg
+c000000004CC43AA600000000000005B3
+t1287928486
+s1459
+
+N/Users/pierre-antoinemontez/Desktop/Untitled/cible_bleu4.jpg
+c000000004CC43B07000000000000056E
+t1287928583
+s1390
+
+N/Users/pierre-antoinemontez/Desktop/Untitled/cible_jaune1.jpg
+c000000004CC4399100000000000005A1
+t1287928209
+s1441
+
+N/Users/pierre-antoinemontez/Desktop/Untitled/cible_jaune2.jpg
+c000000004CC43A1500000000000005D9
+t1287928341
+s1497
+
+N/Users/pierre-antoinemontez/Desktop/Untitled/cible_jaune3.jpg
+c000000004CC43AD30000000000000595
+t1287928531
+s1429
+
+N/Users/pierre-antoinemontez/Desktop/Untitled/cible_jaune4.jpg
+c000000004CC43B4B00000000000005F7
+t1287928651
+s1527
+
+N/Users/pierre-antoinemontez/Desktop/Untitled/cible_rouge1.jpg
+c000000004CC4391A00000000000005AD
+t1287928090
+s1453
+
+N/Users/pierre-antoinemontez/Desktop/Untitled/cible_rouge2.jpg
+c000000004CC43A5A00000000000005F6
+t1287928410
+s1526
+
+N/Users/pierre-antoinemontez/Desktop/Untitled/cible_rouge3.jpg
+c000000004CC43ABF000000000000059E
+t1287928511
+s1438
+
+N/Users/pierre-antoinemontez/Desktop/Untitled/cible_rouge4.jpg
+c000000004CC43B1E00000000000005AE
+t1287928606
+s1454
+
+N/Users/pierre-antoinemontez/Desktop/Untitled/cible_vert1.jpg
+c000000004CC4397400000000000005A8
+t1287928180
+s1448
+
+N/Users/pierre-antoinemontez/Desktop/Untitled/cible_vert2.jpg
+c000000004CC43A2A00000000000005E8
+t1287928362
+s1512
+
+N/Users/pierre-antoinemontez/Desktop/Untitled/cible_vert3.jpg
+c000000004CC43A91000000000000056A
+t1287928465
+s1386
+
+N/Users/pierre-antoinemontez/Desktop/Untitled/cible_vert4.jpg
+c000000004CC43B3400000000000005F7
+t1287928628
+s1527
+
+N/Users/pierre-antoinemontez/Desktop/Untitled/fonctions.cpp
+c000000004CC4144E0000000000000001
+t1287918670
+s1
+
+N/Users/pierre-antoinemontez/Desktop/Untitled/fonctions.h
+c000000004CC42E5C000000000000016F
+t1287925340
+s367
+i<SFML/Graphics.hpp>
+i<stdio.h>
+i<stdlib.h>
+i<time.h>
+
+N/Users/pierre-antoinemontez/Desktop/Untitled/main.cpp
+c000000004CC5FE1B0000000000003722
+t1288044059
+s14114
+i"fonctions.h"
+i<iostream>
+i<string.h>
+
+N/Users/pierre-antoinemontez/Desktop/Untitled/obs1.jpg
+c000000004CC2E1060000000000000A5B
+t1287840006
+s2651
+
+N/Users/pierre-antoinemontez/Desktop/Untitled/obs2.jpg
+c000000004CC2E1060000000000000992
+t1287840006
+s2450
+
+N/Users/pierre-antoinemontez/Desktop/Untitled/pion_bleu.jpg
+c000000004CC432200000000000000969
+t1287926304
+s2409
+
+N/Users/pierre-antoinemontez/Desktop/Untitled/pion_jaune.jpg
+c000000004CC431F00000000000000969
+t1287926256
+s2409
+
+N/Users/pierre-antoinemontez/Desktop/Untitled/pion_rouge.jpg
+c000000004CC4323C000000000000095B
+t1287926332
+s2395
+
+N/Users/pierre-antoinemontez/Desktop/Untitled/pion_vert.jpg
+c000000004CC432080000000000000969
+t1287926280
+s2409
+
+N/usr/include/math.h
+c000000004AC320BA00000000000004F1
+t1254301882
+s1265
+
+N/usr/include/pthread.h
+c000000004AC3260600000000000038F0
+t1254303238
+s14576
+
+N/usr/include/stdio.h
+c000000004AC326060000000000004174
+t1254303238
+s16756
+
+N/usr/include/stdlib.h
+c000000004AC326060000000000002DF5
+t1254303238
+s11765
+
+N/usr/include/string.h
+c000000004AC326060000000000001731
+t1254303238
+s5937
+
+N/usr/include/time.h
+c000000004AC32606000000000000178E
+t1254303238
+s6030
+
+NInfo.plist
+c000000004CC27D96000000000000027A
+t1287814550
+s634
+
+C<C0015:'CompileC fonctions.o':P11:W0>
+s309535194.310839
+e309535194.873161
+r1
+xCompileC
+xbuild/Untitled.build/Debug/Untitled.build/Objects-normal/i386/fonctions.o
+x/Users/adrien/Programmation/C++/Untitled/fonctions.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/adrien/Programmation/C++/Untitled/fonctions.cpp309535194#309535194#0(0"0(0#0#54"/Users/adrien/Programmation/C++/Untitled/fonctions.cpp3401968361984191488#1236"    cd /Users/adrien/Programmation/C++/Untitled    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -fvisibility-inlines-hidden -gdwarf-2 -iquote /Users/adrien/Programmation/C++/Untitled/build/Untitled.build/Debug/Untitled.build/Untitled-generated-files.hmap -I/Users/adrien/Programmation/C++/Untitled/build/Untitled.build/Debug/Untitled.build/Untitled-own-target-headers.hmap -I/Users/adrien/Programmation/C++/Untitled/build/Untitled.build/Debug/Untitled.build/Untitled-all-target-headers.hmap -iquote /Users/adrien/Programmation/C++/Untitled/build/Untitled.build/Debug/Untitled.build/Untitled-project-headers.hmap -F/Users/adrien/Programmation/C++/Untitled/build/Debug -I/Users/adrien/Programmation/C++/Untitled/build/Debug/include -I/Users/adrien/Programmation/C++/Untitled/build/Untitled.build/Debug/Untitled.build/DerivedSources/i386 -I/Users/adrien/Programmation/C++/Untitled/build/Untitled.build/Debug/Untitled.build/DerivedSources -S /Users/adrien/Programmation/C++/Untitled/fonctions.cpp -o /Users/adrien/Programmation/C++/Untitled/build/Untitled.build/Debug/Untitled.build/Objects-normal/i386/fonctions.s0#
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies309730275#309730275#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/Untitled.build/Debug/Untitled.build/Objects-normal/i386/centre.o /Users/adrien/Programmation/C++/Untitled/centre.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s309533055.717537
+e309533055.718557
+r1
+xCompileC
+xbuild/Untitled.build/Debug/Untitled.build/Objects-normal/i386/centre.o
+x/Users/adrien/Programmation/C++/Untitled/centre.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Users/adrien/Programmation/C++/Untitled/centre.cpp309533055#309533055#0(0"0(0#0#51"/Users/adrien/Programmation/C++/Untitled/centre.cpp8613711296#1230"    cd /Users/adrien/Programmation/C++/Untitled    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -fvisibility-inlines-hidden -gdwarf-2 -iquote /Users/adrien/Programmation/C++/Untitled/build/Untitled.build/Debug/Untitled.build/Untitled-generated-files.hmap -I/Users/adrien/Programmation/C++/Untitled/build/Untitled.build/Debug/Untitled.build/Untitled-own-target-headers.hmap -I/Users/adrien/Programmation/C++/Untitled/build/Untitled.build/Debug/Untitled.build/Untitled-all-target-headers.hmap -iquote /Users/adrien/Programmation/C++/Untitled/build/Untitled.build/Debug/Untitled.build/Untitled-project-headers.hmap -F/Users/adrien/Programmation/C++/Untitled/build/Debug -I/Users/adrien/Programmation/C++/Untitled/build/Debug/include -I/Users/adrien/Programmation/C++/Untitled/build/Untitled.build/Debug/Untitled.build/DerivedSources/i386 -I/Users/adrien/Programmation/C++/Untitled/build/Untitled.build/Debug/Untitled.build/DerivedSources -c /Users/adrien/Programmation/C++/Untitled/centre.cpp -o /Users/adrien/Programmation/C++/Untitled/build/Untitled.build/Debug/Untitled.build/Objects-normal/i386/centre.o0#
+
+CCompileC build/Untitled.build/Debug/Untitled.build/Objects-normal/i386/fonctions.o /Users/adrien/Programmation/C++/Untitled/fonctions.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s309611477.412067
+e309611477.413548
+r1
+xCompileC
+xbuild/Untitled.build/Debug/Untitled.build/Objects-normal/i386/fonctions.o
+x/Users/adrien/Programmation/C++/Untitled/fonctions.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/adrien/Programmation/C++/Untitled/fonctions.cpp309611477#309611477#0(0"0(0#0#54"/Users/adrien/Programmation/C++/Untitled/fonctions.cpp8603243424#1236"    cd /Users/adrien/Programmation/C++/Untitled    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -fvisibility-inlines-hidden -gdwarf-2 -iquote /Users/adrien/Programmation/C++/Untitled/build/Untitled.build/Debug/Untitled.build/Untitled-generated-files.hmap -I/Users/adrien/Programmation/C++/Untitled/build/Untitled.build/Debug/Untitled.build/Untitled-own-target-headers.hmap -I/Users/adrien/Programmation/C++/Untitled/build/Untitled.build/Debug/Untitled.build/Untitled-all-target-headers.hmap -iquote /Users/adrien/Programmation/C++/Untitled/build/Untitled.build/Debug/Untitled.build/Untitled-project-headers.hmap -F/Users/adrien/Programmation/C++/Untitled/build/Debug -I/Users/adrien/Programmation/C++/Untitled/build/Debug/include -I/Users/adrien/Programmation/C++/Untitled/build/Untitled.build/Debug/Untitled.build/DerivedSources/i386 -I/Users/adrien/Programmation/C++/Untitled/build/Untitled.build/Debug/Untitled.build/DerivedSources -c /Users/adrien/Programmation/C++/Untitled/fonctions.cpp -o /Users/adrien/Programmation/C++/Untitled/build/Untitled.build/Debug/Untitled.build/Objects-normal/i386/fonctions.o0#
+
+CCompileC build/Untitled.build/Debug/Untitled.build/Objects-normal/i386/fonctions.o /Users/pierre-antoinemontez/Desktop/Untitled/fonctions.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Untitled.build/Debug/Untitled.build/Objects-normal/i386/main.o /Users/adrien/Programmation/C++/Untitled/main.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s309631464.964795
+e309631464.965931
+r1
+xCompileC
+xbuild/Untitled.build/Debug/Untitled.build/Objects-normal/i386/main.o
+x/Users/adrien/Programmation/C++/Untitled/main.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Users/adrien/Programmation/C++/Untitled/main.cpp309631464#309631464#0(0"0(0#0#49"/Users/adrien/Programmation/C++/Untitled/main.cpp8609262112#1226"    cd /Users/adrien/Programmation/C++/Untitled    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -fvisibility-inlines-hidden -gdwarf-2 -iquote /Users/adrien/Programmation/C++/Untitled/build/Untitled.build/Debug/Untitled.build/Untitled-generated-files.hmap -I/Users/adrien/Programmation/C++/Untitled/build/Untitled.build/Debug/Untitled.build/Untitled-own-target-headers.hmap -I/Users/adrien/Programmation/C++/Untitled/build/Untitled.build/Debug/Untitled.build/Untitled-all-target-headers.hmap -iquote /Users/adrien/Programmation/C++/Untitled/build/Untitled.build/Debug/Untitled.build/Untitled-project-headers.hmap -F/Users/adrien/Programmation/C++/Untitled/build/Debug -I/Users/adrien/Programmation/C++/Untitled/build/Debug/include -I/Users/adrien/Programmation/C++/Untitled/build/Untitled.build/Debug/Untitled.build/DerivedSources/i386 -I/Users/adrien/Programmation/C++/Untitled/build/Untitled.build/Debug/Untitled.build/DerivedSources -c /Users/adrien/Programmation/C++/Untitled/main.cpp -o /Users/adrien/Programmation/C++/Untitled/build/Untitled.build/Debug/Untitled.build/Objects-normal/i386/main.o0#
+
+CCompileC build/Untitled.build/Debug/Untitled.build/Objects-normal/i386/main.o /Users/pierre-antoinemontez/Desktop/Untitled/main.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s309730275.021170
+e309730275.024089
+r1
+xCompileC
+xbuild/Untitled.build/Debug/Untitled.build/Objects-normal/i386/main.o
+x/Users/pierre-antoinemontez/Desktop/Untitled/main.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/pierre-antoinemontez/Desktop/Untitled/main.cpp309730275#309730275#0(586"/Users/pierre-antoinemontez/Desktop/Untitled/main.cpp: In function 'int main(int, const char**)':/Users/pierre-antoinemontez/Desktop/Untitled/main.cpp:536: warning: deprecated conversion from string constant to 'char*'/Users/pierre-antoinemontez/Desktop/Untitled/main.cpp:540: warning: deprecated conversion from string constant to 'char*'/Users/pierre-antoinemontez/Desktop/Untitled/main.cpp:544: warning: deprecated conversion from string constant to 'char*'/Users/pierre-antoinemontez/Desktop/Untitled/main.cpp:548: warning: deprecated conversion from string constant to 'char*'4(22@53"Deprecated conversion from string constant to 'char*'309730275#98#122#0(6@53"/Users/pierre-antoinemontez/Desktop/Untitled/main.cpp309730274#536#0#536#0#49"deprecated conversion from string constant to '*'0(22@53"Deprecated conversion from string constant to 'char*'309730275#220#122#0(6@53"/Users/pierre-antoinemontez/Desktop/Untitled/main.cpp309730274#540#0#540#0#49"deprecated conversion from string constant to '*'0(22@53"Deprecated conversion from string constant to 'char*'309730275#342#122#0(6@53"/Users/pierre-antoinemontez/Desktop/Untitled/main.cpp309730274#544#0#544#0#49"deprecated conversion from string constant to '*'0(22@53"Deprecated conversion from string constant to 'char*'309730275#464#122#0(6@53"/Users/pierre-antoinemontez/Desktop/Untitled/main.cpp309730274#548#0#548#0#49"deprecated conversion from string constant to '*'0(0#0#53"/Users/pierre-antoinemontez/Desktop/Untitled/main.cpp4300911832#1270"    cd /Users/pierre-antoinemontez/Desktop/Untitled    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -fvisibility-inlines-hidden -gdwarf-2 -iquote /Users/pierre-antoinemontez/Desktop/Untitled/build/Untitled.build/Debug/Untitled.build/Untitled-generated-files.hmap -I/Users/pierre-antoinemontez/Desktop/Untitled/build/Untitled.build/Debug/Untitled.build/Untitled-own-target-headers.hmap -I/Users/pierre-antoinemontez/Desktop/Untitled/build/Untitled.build/Debug/Untitled.build/Untitled-all-target-headers.hmap -iquote /Users/pierre-antoinemontez/Desktop/Untitled/build/Untitled.build/Debug/Untitled.build/Untitled-project-headers.hmap -F/Users/pierre-antoinemontez/Desktop/Untitled/build/Debug -I/Users/pierre-antoinemontez/Desktop/Untitled/build/Debug/include -I/Users/pierre-antoinemontez/Desktop/Untitled/build/Untitled.build/Debug/Untitled.build/DerivedSources/i386 -I/Users/pierre-antoinemontez/Desktop/Untitled/build/Untitled.build/Debug/Untitled.build/DerivedSources -c /Users/pierre-antoinemontez/Desktop/Untitled/main.cpp -o /Users/pierre-antoinemontez/Desktop/Untitled/build/Untitled.build/Debug/Untitled.build/Objects-normal/i386/main.o0#
+
+CCpResource build/Debug/Untitled.app/Contents/Resources/Arial.ttf Arial.ttf
+s309627895.497600
+e309627895.545429
+r1
+xCpResource
+xbuild/Debug/Untitled.app/Contents/Resources/Arial.ttf
+xArial.ttf
+lSLF07#2@14"Copy Arial.ttf309627895#309627895#0(0"0(0#0#50"/Users/adrien/Programmation/C++/Untitled/Arial.ttf8616800384#332"    cd /Users/adrien/Programmation/C++/Untitled    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/adrien/Programmation/C++/Untitled/Arial.ttf /Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app/Contents/Resources0#
+
+CCpResource build/Debug/Untitled.app/Contents/Resources/case_centre_bleu1.jpg case_centre_bleu1.jpg
+s309595376.280828
+e309595376.300896
+r1
+xCpResource
+xbuild/Debug/Untitled.app/Contents/Resources/case_centre_bleu1.jpg
+xcase_centre_bleu1.jpg
+lSLF07#2@26"Copy case_centre_bleu1.jpg309595376#309595376#0(0"0(0#0#62"/Users/adrien/Programmation/C++/Untitled/case_centre_bleu1.jpg8611542432#344"    cd /Users/adrien/Programmation/C++/Untitled    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/adrien/Programmation/C++/Untitled/case_centre_bleu1.jpg /Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app/Contents/Resources0#
+
+CCpResource build/Debug/Untitled.app/Contents/Resources/case_centre_bleu2.jpg case_centre_bleu2.jpg
+s309595376.252477
+e309595376.283969
+r1
+xCpResource
+xbuild/Debug/Untitled.app/Contents/Resources/case_centre_bleu2.jpg
+xcase_centre_bleu2.jpg
+lSLF07#2@26"Copy case_centre_bleu2.jpg309595376#309595376#0(0"0(0#0#62"/Users/adrien/Programmation/C++/Untitled/case_centre_bleu2.jpg8590281248#344"    cd /Users/adrien/Programmation/C++/Untitled    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/adrien/Programmation/C++/Untitled/case_centre_bleu2.jpg /Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app/Contents/Resources0#
+
+CCpResource build/Debug/Untitled.app/Contents/Resources/case_centre_bleu3.jpg case_centre_bleu3.jpg
+s309595376.251805
+e309595376.283865
+r1
+xCpResource
+xbuild/Debug/Untitled.app/Contents/Resources/case_centre_bleu3.jpg
+xcase_centre_bleu3.jpg
+lSLF07#2@26"Copy case_centre_bleu3.jpg309595376#309595376#0(0"0(0#0#62"/Users/adrien/Programmation/C++/Untitled/case_centre_bleu3.jpg8611555552#344"    cd /Users/adrien/Programmation/C++/Untitled    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/adrien/Programmation/C++/Untitled/case_centre_bleu3.jpg /Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app/Contents/Resources0#
+
+CCpResource build/Debug/Untitled.app/Contents/Resources/case_centre_bleu4.jpg case_centre_bleu4.jpg
+s309595376.284327
+e309595376.301159
+r1
+xCpResource
+xbuild/Debug/Untitled.app/Contents/Resources/case_centre_bleu4.jpg
+xcase_centre_bleu4.jpg
+lSLF07#2@26"Copy case_centre_bleu4.jpg309595376#309595376#0(0"0(0#0#62"/Users/adrien/Programmation/C++/Untitled/case_centre_bleu4.jpg8611512864#344"    cd /Users/adrien/Programmation/C++/Untitled    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/adrien/Programmation/C++/Untitled/case_centre_bleu4.jpg /Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app/Contents/Resources0#
+
+CCpResource build/Debug/Untitled.app/Contents/Resources/case_centre_jaune1.jpg case_centre_jaune1.jpg
+s309595376.289955
+e309595376.301271
+r1
+xCpResource
+xbuild/Debug/Untitled.app/Contents/Resources/case_centre_jaune1.jpg
+xcase_centre_jaune1.jpg
+lSLF07#2@27"Copy case_centre_jaune1.jpg309595376#309595376#0(0"0(0#0#63"/Users/adrien/Programmation/C++/Untitled/case_centre_jaune1.jpg8611421600#345"    cd /Users/adrien/Programmation/C++/Untitled    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/adrien/Programmation/C++/Untitled/case_centre_jaune1.jpg /Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app/Contents/Resources0#
+
+CCpResource build/Debug/Untitled.app/Contents/Resources/case_centre_jaune2.jpg case_centre_jaune2.jpg
+s309595376.250068
+e309595376.283633
+r1
+xCpResource
+xbuild/Debug/Untitled.app/Contents/Resources/case_centre_jaune2.jpg
+xcase_centre_jaune2.jpg
+lSLF07#2@27"Copy case_centre_jaune2.jpg309595376#309595376#0(0"0(0#0#63"/Users/adrien/Programmation/C++/Untitled/case_centre_jaune2.jpg8609784032#345"    cd /Users/adrien/Programmation/C++/Untitled    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/adrien/Programmation/C++/Untitled/case_centre_jaune2.jpg /Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app/Contents/Resources0#
+
+CCpResource build/Debug/Untitled.app/Contents/Resources/case_centre_jaune3.jpg case_centre_jaune3.jpg
+s309595376.250676
+e309595376.283755
+r1
+xCpResource
+xbuild/Debug/Untitled.app/Contents/Resources/case_centre_jaune3.jpg
+xcase_centre_jaune3.jpg
+lSLF07#2@27"Copy case_centre_jaune3.jpg309595376#309595376#0(0"0(0#0#63"/Users/adrien/Programmation/C++/Untitled/case_centre_jaune3.jpg8611592928#345"    cd /Users/adrien/Programmation/C++/Untitled    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/adrien/Programmation/C++/Untitled/case_centre_jaune3.jpg /Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app/Contents/Resources0#
+
+CCpResource build/Debug/Untitled.app/Contents/Resources/case_centre_jaune4.jpg case_centre_jaune4.jpg
+s309595376.255489
+e309595376.284252
+r1
+xCpResource
+xbuild/Debug/Untitled.app/Contents/Resources/case_centre_jaune4.jpg
+xcase_centre_jaune4.jpg
+lSLF07#2@27"Copy case_centre_jaune4.jpg309595376#309595376#0(0"0(0#0#63"/Users/adrien/Programmation/C++/Untitled/case_centre_jaune4.jpg8611712960#345"    cd /Users/adrien/Programmation/C++/Untitled    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/adrien/Programmation/C++/Untitled/case_centre_jaune4.jpg /Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app/Contents/Resources0#
+
+CCpResource build/Debug/Untitled.app/Contents/Resources/case_centre_rouge1.jpg case_centre_rouge1.jpg
+s309595376.257869
+e309595376.301380
+r1
+xCpResource
+xbuild/Debug/Untitled.app/Contents/Resources/case_centre_rouge1.jpg
+xcase_centre_rouge1.jpg
+lSLF07#2@27"Copy case_centre_rouge1.jpg309595376#309595376#0(0"0(0#0#63"/Users/adrien/Programmation/C++/Untitled/case_centre_rouge1.jpg8611724000#345"    cd /Users/adrien/Programmation/C++/Untitled    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/adrien/Programmation/C++/Untitled/case_centre_rouge1.jpg /Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app/Contents/Resources0#
+
+CCpResource build/Debug/Untitled.app/Contents/Resources/case_centre_rouge2.jpg case_centre_rouge2.jpg
+s309595376.291245
+e309595376.302215
+r1
+xCpResource
+xbuild/Debug/Untitled.app/Contents/Resources/case_centre_rouge2.jpg
+xcase_centre_rouge2.jpg
+lSLF07#2@27"Copy case_centre_rouge2.jpg309595376#309595376#0(0"0(0#0#63"/Users/adrien/Programmation/C++/Untitled/case_centre_rouge2.jpg8611392000#345"    cd /Users/adrien/Programmation/C++/Untitled    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/adrien/Programmation/C++/Untitled/case_centre_rouge2.jpg /Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app/Contents/Resources0#
+
+CCpResource build/Debug/Untitled.app/Contents/Resources/case_centre_rouge3.jpg case_centre_rouge3.jpg
+s309595376.263557
+e309595376.301487
+r1
+xCpResource
+xbuild/Debug/Untitled.app/Contents/Resources/case_centre_rouge3.jpg
+xcase_centre_rouge3.jpg
+lSLF07#2@27"Copy case_centre_rouge3.jpg309595376#309595376#0(0"0(0#0#63"/Users/adrien/Programmation/C++/Untitled/case_centre_rouge3.jpg8611650144#345"    cd /Users/adrien/Programmation/C++/Untitled    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/adrien/Programmation/C++/Untitled/case_centre_rouge3.jpg /Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app/Contents/Resources0#
+
+CCpResource build/Debug/Untitled.app/Contents/Resources/case_centre_rouge4.jpg case_centre_rouge4.jpg
+s309595376.248640
+e309595376.280734
+r1
+xCpResource
+xbuild/Debug/Untitled.app/Contents/Resources/case_centre_rouge4.jpg
+xcase_centre_rouge4.jpg
+lSLF07#2@27"Copy case_centre_rouge4.jpg309595376#309595376#0(0"0(0#0#63"/Users/adrien/Programmation/C++/Untitled/case_centre_rouge4.jpg32651569751457892#345"    cd /Users/adrien/Programmation/C++/Untitled    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/adrien/Programmation/C++/Untitled/case_centre_rouge4.jpg /Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app/Contents/Resources0#
+
+CCpResource build/Debug/Untitled.app/Contents/Resources/case_centre_vert.jpg case_centre_vert.jpg
+s309529391.400980
+e309529391.418977
+r1
+xCpResource
+xbuild/Debug/Untitled.app/Contents/Resources/case_centre_vert.jpg
+xcase_centre_vert.jpg
+lSLF07#2@25"Copy case_centre_vert.jpg309529391#309529391#0(0"0(0#0#61"/Users/adrien/Programmation/C++/Untitled/case_centre_vert.jpg8611715936#343"    cd /Users/adrien/Programmation/C++/Untitled    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/adrien/Programmation/C++/Untitled/case_centre_vert.jpg /Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app/Contents/Resources0#
+
+CCpResource build/Debug/Untitled.app/Contents/Resources/case_centre_vert1.jpg case_centre_vert1.jpg
+s309595376.295259
+e309595376.305517
+r1
+xCpResource
+xbuild/Debug/Untitled.app/Contents/Resources/case_centre_vert1.jpg
+xcase_centre_vert1.jpg
+lSLF07#2@26"Copy case_centre_vert1.jpg309595376#309595376#0(0"0(0#0#62"/Users/adrien/Programmation/C++/Untitled/case_centre_vert1.jpg8609802880#344"    cd /Users/adrien/Programmation/C++/Untitled    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/adrien/Programmation/C++/Untitled/case_centre_vert1.jpg /Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app/Contents/Resources0#
+
+CCpResource build/Debug/Untitled.app/Contents/Resources/case_centre_vert2.jpg case_centre_vert2.jpg
+s309595376.249452
+e309595376.301045
+r1
+xCpResource
+xbuild/Debug/Untitled.app/Contents/Resources/case_centre_vert2.jpg
+xcase_centre_vert2.jpg
+lSLF07#2@26"Copy case_centre_vert2.jpg309595376#309595376#0(0"0(0#0#62"/Users/adrien/Programmation/C++/Untitled/case_centre_vert2.jpg8611532640#344"    cd /Users/adrien/Programmation/C++/Untitled    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/adrien/Programmation/C++/Untitled/case_centre_vert2.jpg /Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app/Contents/Resources0#
+
+CCpResource build/Debug/Untitled.app/Contents/Resources/case_centre_vert3.jpg case_centre_vert3.jpg
+s309595376.253240
+e309595376.284075
+r1
+xCpResource
+xbuild/Debug/Untitled.app/Contents/Resources/case_centre_vert3.jpg
+xcase_centre_vert3.jpg
+lSLF07#2@26"Copy case_centre_vert3.jpg309595376#309595376#0(0"0(0#0#62"/Users/adrien/Programmation/C++/Untitled/case_centre_vert3.jpg8611700928#344"    cd /Users/adrien/Programmation/C++/Untitled    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/adrien/Programmation/C++/Untitled/case_centre_vert3.jpg /Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app/Contents/Resources0#
+
+CCpResource build/Debug/Untitled.app/Contents/Resources/case_centre_vert4.jpg case_centre_vert4.jpg
+s309595376.296957
+e309595376.306961
+r1
+xCpResource
+xbuild/Debug/Untitled.app/Contents/Resources/case_centre_vert4.jpg
+xcase_centre_vert4.jpg
+lSLF07#2@26"Copy case_centre_vert4.jpg309595376#309595376#0(0"0(0#0#62"/Users/adrien/Programmation/C++/Untitled/case_centre_vert4.jpg8600144128#344"    cd /Users/adrien/Programmation/C++/Untitled    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/adrien/Programmation/C++/Untitled/case_centre_vert4.jpg /Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app/Contents/Resources0#
+
+CCpResource build/Debug/Untitled.app/Contents/Resources/case_cible_vert.jpg case_cible_vert.jpg
+s309528643.246381
+e309528643.251830
+r1
+xCpResource
+xbuild/Debug/Untitled.app/Contents/Resources/case_cible_vert.jpg
+xcase_cible_vert.jpg
+lSLF07#2@24"Copy case_cible_vert.jpg309528643#309528643#0(0"0(0#0#60"/Users/adrien/Programmation/C++/Untitled/case_cible_vert.jpg8614479648#342"    cd /Users/adrien/Programmation/C++/Untitled    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/adrien/Programmation/C++/Untitled/case_cible_vert.jpg /Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app/Contents/Resources0#
+
+CCpResource build/Debug/Untitled.app/Contents/Resources/case_dfl.jpg case_dfl.jpg
+s309527737.121163
+e309527737.158807
+r1
+xCpResource
+xbuild/Debug/Untitled.app/Contents/Resources/case_dfl.jpg
+xcase_dfl.jpg
+lSLF07#2@17"Copy case_dfl.jpg309527737#309527737#0(0"0(0#0#53"/Users/adrien/Programmation/C++/Untitled/case_dfl.jpg8611590688#335"    cd /Users/adrien/Programmation/C++/Untitled    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/adrien/Programmation/C++/Untitled/case_dfl.jpg /Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app/Contents/Resources0#
+
+CCpResource build/Debug/Untitled.app/Contents/Resources/case_pion_bleu.jpg case_pion_bleu.jpg
+s309529391.417661
+e309529391.424193
+r1
+xCpResource
+xbuild/Debug/Untitled.app/Contents/Resources/case_pion_bleu.jpg
+xcase_pion_bleu.jpg
+lSLF07#2@23"Copy case_pion_bleu.jpg309529391#309529391#0(0"0(0#0#59"/Users/adrien/Programmation/C++/Untitled/case_pion_bleu.jpg8614252960#341"    cd /Users/adrien/Programmation/C++/Untitled    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/adrien/Programmation/C++/Untitled/case_pion_bleu.jpg /Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app/Contents/Resources0#
+
+CCpResource build/Debug/Untitled.app/Contents/Resources/case_pion_rouge.jpg case_pion_rouge.jpg
+s309529391.405658
+e309529391.419207
+r1
+xCpResource
+xbuild/Debug/Untitled.app/Contents/Resources/case_pion_rouge.jpg
+xcase_pion_rouge.jpg
+lSLF07#2@24"Copy case_pion_rouge.jpg309529391#309529391#0(0"0(0#0#60"/Users/adrien/Programmation/C++/Untitled/case_pion_rouge.jpg8614444544#342"    cd /Users/adrien/Programmation/C++/Untitled    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/adrien/Programmation/C++/Untitled/case_pion_rouge.jpg /Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app/Contents/Resources0#
+
+CCpResource build/Debug/Untitled.app/Contents/Resources/case_pion_vert.jpg case_pion_vert.jpg
+s309529391.404737
+e309529391.419096
+r1
+xCpResource
+xbuild/Debug/Untitled.app/Contents/Resources/case_pion_vert.jpg
+xcase_pion_vert.jpg
+lSLF07#2@23"Copy case_pion_vert.jpg309529391#309529391#0(0"0(0#0#59"/Users/adrien/Programmation/C++/Untitled/case_pion_vert.jpg8613616384#341"    cd /Users/adrien/Programmation/C++/Untitled    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/adrien/Programmation/C++/Untitled/case_pion_vert.jpg /Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app/Contents/Resources0#
+
+CCpResource build/Debug/Untitled.app/Contents/Resources/cible_bleu1.jpg cible_bleu1.jpg
+s309626777.636043
+e309626777.659998
+r1
+xCpResource
+xbuild/Debug/Untitled.app/Contents/Resources/cible_bleu1.jpg
+xcible_bleu1.jpg
+lSLF07#2@20"Copy cible_bleu1.jpg309626777#309626777#0(0"0(0#0#56"/Users/adrien/Programmation/C++/Untitled/cible_bleu1.jpg8609308544#338"    cd /Users/adrien/Programmation/C++/Untitled    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/adrien/Programmation/C++/Untitled/cible_bleu1.jpg /Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app/Contents/Resources0#
+
+CCpResource build/Debug/Untitled.app/Contents/Resources/cible_bleu2.jpg cible_bleu2.jpg
+s309626777.630505
+e309626777.658645
+r1
+xCpResource
+xbuild/Debug/Untitled.app/Contents/Resources/cible_bleu2.jpg
+xcible_bleu2.jpg
+lSLF07#2@20"Copy cible_bleu2.jpg309626777#309626777#0(0"0(0#0#56"/Users/adrien/Programmation/C++/Untitled/cible_bleu2.jpg8609783552#338"    cd /Users/adrien/Programmation/C++/Untitled    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/adrien/Programmation/C++/Untitled/cible_bleu2.jpg /Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app/Contents/Resources0#
+
+CCpResource build/Debug/Untitled.app/Contents/Resources/cible_bleu3.jpg cible_bleu3.jpg
+s309626777.661557
+e309626777.678396
+r1
+xCpResource
+xbuild/Debug/Untitled.app/Contents/Resources/cible_bleu3.jpg
+xcible_bleu3.jpg
+lSLF07#2@20"Copy cible_bleu3.jpg309626777#309626777#0(0"0(0#0#56"/Users/adrien/Programmation/C++/Untitled/cible_bleu3.jpg8611750528#338"    cd /Users/adrien/Programmation/C++/Untitled    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/adrien/Programmation/C++/Untitled/cible_bleu3.jpg /Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app/Contents/Resources0#
+
+CCpResource build/Debug/Untitled.app/Contents/Resources/cible_bleu4.jpg cible_bleu4.jpg
+s309626777.623418
+e309626777.677983
+r1
+xCpResource
+xbuild/Debug/Untitled.app/Contents/Resources/cible_bleu4.jpg
+xcible_bleu4.jpg
+lSLF07#2@20"Copy cible_bleu4.jpg309626777#309626777#0(0"0(0#0#56"/Users/adrien/Programmation/C++/Untitled/cible_bleu4.jpg8603466624#338"    cd /Users/adrien/Programmation/C++/Untitled    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/adrien/Programmation/C++/Untitled/cible_bleu4.jpg /Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app/Contents/Resources0#
+
+CCpResource build/Debug/Untitled.app/Contents/Resources/cible_jaune1.jpg cible_jaune1.jpg
+s309626777.673817
+e309626777.685133
+r1
+xCpResource
+xbuild/Debug/Untitled.app/Contents/Resources/cible_jaune1.jpg
+xcible_jaune1.jpg
+lSLF07#2@21"Copy cible_jaune1.jpg309626777#309626777#0(0"0(0#0#57"/Users/adrien/Programmation/C++/Untitled/cible_jaune1.jpg8612038336#339"    cd /Users/adrien/Programmation/C++/Untitled    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/adrien/Programmation/C++/Untitled/cible_jaune1.jpg /Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app/Contents/Resources0#
+
+CCpResource build/Debug/Untitled.app/Contents/Resources/cible_jaune2.jpg cible_jaune2.jpg
+s309626777.628187
+e309626777.658490
+r1
+xCpResource
+xbuild/Debug/Untitled.app/Contents/Resources/cible_jaune2.jpg
+xcible_jaune2.jpg
+lSLF07#2@21"Copy cible_jaune2.jpg309626777#309626777#0(0"0(0#0#57"/Users/adrien/Programmation/C++/Untitled/cible_jaune2.jpg8611730496#339"    cd /Users/adrien/Programmation/C++/Untitled    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/adrien/Programmation/C++/Untitled/cible_jaune2.jpg /Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app/Contents/Resources0#
+
+CCpResource build/Debug/Untitled.app/Contents/Resources/cible_jaune3.jpg cible_jaune3.jpg
+s309626777.586064
+e309626777.677868
+r1
+xCpResource
+xbuild/Debug/Untitled.app/Contents/Resources/cible_jaune3.jpg
+xcible_jaune3.jpg
+lSLF07#2@21"Copy cible_jaune3.jpg309626777#309626777#0(0"0(0#0#57"/Users/adrien/Programmation/C++/Untitled/cible_jaune3.jpg32932988893921376#339"    cd /Users/adrien/Programmation/C++/Untitled    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/adrien/Programmation/C++/Untitled/cible_jaune3.jpg /Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app/Contents/Resources0#
+
+CCpResource build/Debug/Untitled.app/Contents/Resources/cible_jaune4.jpg cible_jaune4.jpg
+s309626777.660073
+e309626777.678089
+r1
+xCpResource
+xbuild/Debug/Untitled.app/Contents/Resources/cible_jaune4.jpg
+xcible_jaune4.jpg
+lSLF07#2@21"Copy cible_jaune4.jpg309626777#309626777#0(0"0(0#0#57"/Users/adrien/Programmation/C++/Untitled/cible_jaune4.jpg8611360000#339"    cd /Users/adrien/Programmation/C++/Untitled    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/adrien/Programmation/C++/Untitled/cible_jaune4.jpg /Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app/Contents/Resources0#
+
+CCpResource build/Debug/Untitled.app/Contents/Resources/cible_rouge1.jpg cible_rouge1.jpg
+s309626777.632332
+e309626777.658928
+r1
+xCpResource
+xbuild/Debug/Untitled.app/Contents/Resources/cible_rouge1.jpg
+xcible_rouge1.jpg
+lSLF07#2@21"Copy cible_rouge1.jpg309626777#309626777#0(0"0(0#0#57"/Users/adrien/Programmation/C++/Untitled/cible_rouge1.jpg8609758944#339"    cd /Users/adrien/Programmation/C++/Untitled    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/adrien/Programmation/C++/Untitled/cible_rouge1.jpg /Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app/Contents/Resources0#
+
+CCpResource build/Debug/Untitled.app/Contents/Resources/cible_rouge2.jpg cible_rouge2.jpg
+s309626777.633652
+e309626777.659671
+r1
+xCpResource
+xbuild/Debug/Untitled.app/Contents/Resources/cible_rouge2.jpg
+xcible_rouge2.jpg
+lSLF07#2@21"Copy cible_rouge2.jpg309626777#309626777#0(0"0(0#0#57"/Users/adrien/Programmation/C++/Untitled/cible_rouge2.jpg8611421600#339"    cd /Users/adrien/Programmation/C++/Untitled    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/adrien/Programmation/C++/Untitled/cible_rouge2.jpg /Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app/Contents/Resources0#
+
+CCpResource build/Debug/Untitled.app/Contents/Resources/cible_rouge3.jpg cible_rouge3.jpg
+s309626777.676682
+e309626777.683783
+r1
+xCpResource
+xbuild/Debug/Untitled.app/Contents/Resources/cible_rouge3.jpg
+xcible_rouge3.jpg
+lSLF07#2@21"Copy cible_rouge3.jpg309626777#309626777#0(0"0(0#0#57"/Users/adrien/Programmation/C++/Untitled/cible_rouge3.jpg8612023936#339"    cd /Users/adrien/Programmation/C++/Untitled    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/adrien/Programmation/C++/Untitled/cible_rouge3.jpg /Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app/Contents/Resources0#
+
+CCpResource build/Debug/Untitled.app/Contents/Resources/cible_rouge4.jpg cible_rouge4.jpg
+s309626777.631350
+e309626777.658800
+r1
+xCpResource
+xbuild/Debug/Untitled.app/Contents/Resources/cible_rouge4.jpg
+xcible_rouge4.jpg
+lSLF07#2@21"Copy cible_rouge4.jpg309626777#309626777#0(0"0(0#0#57"/Users/adrien/Programmation/C++/Untitled/cible_rouge4.jpg8609507648#339"    cd /Users/adrien/Programmation/C++/Untitled    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/adrien/Programmation/C++/Untitled/cible_rouge4.jpg /Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app/Contents/Resources0#
+
+CCpResource build/Debug/Untitled.app/Contents/Resources/cible_vert1.jpg cible_vert1.jpg
+s309626777.667155
+e309626777.681816
+r1
+xCpResource
+xbuild/Debug/Untitled.app/Contents/Resources/cible_vert1.jpg
+xcible_vert1.jpg
+lSLF07#2@20"Copy cible_vert1.jpg309626777#309626777#0(0"0(0#0#56"/Users/adrien/Programmation/C++/Untitled/cible_vert1.jpg8609441056#338"    cd /Users/adrien/Programmation/C++/Untitled    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/adrien/Programmation/C++/Untitled/cible_vert1.jpg /Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app/Contents/Resources0#
+
+CCpResource build/Debug/Untitled.app/Contents/Resources/cible_vert2.jpg cible_vert2.jpg
+s309626777.629173
+e309626777.678193
+r1
+xCpResource
+xbuild/Debug/Untitled.app/Contents/Resources/cible_vert2.jpg
+xcible_vert2.jpg
+lSLF07#2@20"Copy cible_vert2.jpg309626777#309626777#0(0"0(0#0#56"/Users/adrien/Programmation/C++/Untitled/cible_vert2.jpg8609154944#338"    cd /Users/adrien/Programmation/C++/Untitled    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/adrien/Programmation/C++/Untitled/cible_vert2.jpg /Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app/Contents/Resources0#
+
+CCpResource build/Debug/Untitled.app/Contents/Resources/cible_vert3.jpg cible_vert3.jpg
+s309626777.660769
+e309626777.678295
+r1
+xCpResource
+xbuild/Debug/Untitled.app/Contents/Resources/cible_vert3.jpg
+xcible_vert3.jpg
+lSLF07#2@20"Copy cible_vert3.jpg309626777#309626777#0(0"0(0#0#56"/Users/adrien/Programmation/C++/Untitled/cible_vert3.jpg8609525888#338"    cd /Users/adrien/Programmation/C++/Untitled    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/adrien/Programmation/C++/Untitled/cible_vert3.jpg /Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app/Contents/Resources0#
+
+CCpResource build/Debug/Untitled.app/Contents/Resources/cible_vert4.jpg cible_vert4.jpg
+s309626777.634420
+e309626777.659864
+r1
+xCpResource
+xbuild/Debug/Untitled.app/Contents/Resources/cible_vert4.jpg
+xcible_vert4.jpg
+lSLF07#2@20"Copy cible_vert4.jpg309626777#309626777#0(0"0(0#0#56"/Users/adrien/Programmation/C++/Untitled/cible_vert4.jpg8609825728#338"    cd /Users/adrien/Programmation/C++/Untitled    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/adrien/Programmation/C++/Untitled/cible_vert4.jpg /Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app/Contents/Resources0#
+
+CCpResource build/Debug/Untitled.app/Contents/Resources/obs1.jpg obs1.jpg
+s309612575.366722
+e309612575.419859
+r1
+xCpResource
+xbuild/Debug/Untitled.app/Contents/Resources/obs1.jpg
+xobs1.jpg
+lSLF07#2@13"Copy obs1.jpg309612575#309612575#0(0"0(0#0#49"/Users/adrien/Programmation/C++/Untitled/obs1.jpg8612296864#331"    cd /Users/adrien/Programmation/C++/Untitled    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/adrien/Programmation/C++/Untitled/obs1.jpg /Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app/Contents/Resources0#
+
+CCpResource build/Debug/Untitled.app/Contents/Resources/obs2.jpg obs2.jpg
+s309612575.368691
+e309612575.420078
+r1
+xCpResource
+xbuild/Debug/Untitled.app/Contents/Resources/obs2.jpg
+xobs2.jpg
+lSLF07#2@13"Copy obs2.jpg309612575#309612575#0(0"0(0#0#49"/Users/adrien/Programmation/C++/Untitled/obs2.jpg8612229920#331"    cd /Users/adrien/Programmation/C++/Untitled    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/adrien/Programmation/C++/Untitled/obs2.jpg /Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app/Contents/Resources0#
+
+CCpResource build/Debug/Untitled.app/Contents/Resources/pion_bleu.jpg pion_bleu.jpg
+s309619403.220215
+e309619403.242826
+r1
+xCpResource
+xbuild/Debug/Untitled.app/Contents/Resources/pion_bleu.jpg
+xpion_bleu.jpg
+lSLF07#2@18"Copy pion_bleu.jpg309619403#309619403#0(0"0(0#0#54"/Users/adrien/Programmation/C++/Untitled/pion_bleu.jpg8612312064#336"    cd /Users/adrien/Programmation/C++/Untitled    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/adrien/Programmation/C++/Untitled/pion_bleu.jpg /Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app/Contents/Resources0#
+
+CCpResource build/Debug/Untitled.app/Contents/Resources/pion_jaune.jpg pion_jaune.jpg
+s309619403.203307
+e309619403.243011
+r1
+xCpResource
+xbuild/Debug/Untitled.app/Contents/Resources/pion_jaune.jpg
+xpion_jaune.jpg
+lSLF07#2@19"Copy pion_jaune.jpg309619403#309619403#0(0"0(0#0#55"/Users/adrien/Programmation/C++/Untitled/pion_jaune.jpg8598688736#337"    cd /Users/adrien/Programmation/C++/Untitled    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/adrien/Programmation/C++/Untitled/pion_jaune.jpg /Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app/Contents/Resources0#
+
+CCpResource build/Debug/Untitled.app/Contents/Resources/pion_rouge.jpg pion_rouge.jpg
+s309619403.202489
+e309619403.242529
+r1
+xCpResource
+xbuild/Debug/Untitled.app/Contents/Resources/pion_rouge.jpg
+xpion_rouge.jpg
+lSLF07#2@19"Copy pion_rouge.jpg309619403#309619403#0(0"0(0#0#55"/Users/adrien/Programmation/C++/Untitled/pion_rouge.jpg8601045472#337"    cd /Users/adrien/Programmation/C++/Untitled    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/adrien/Programmation/C++/Untitled/pion_rouge.jpg /Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app/Contents/Resources0#
+
+CCpResource build/Debug/Untitled.app/Contents/Resources/pion_vert.jpg pion_vert.jpg
+s309619403.204592
+e309619403.242697
+r1
+xCpResource
+xbuild/Debug/Untitled.app/Contents/Resources/pion_vert.jpg
+xpion_vert.jpg
+lSLF07#2@18"Copy pion_vert.jpg309619403#309619403#0(0"0(0#0#54"/Users/adrien/Programmation/C++/Untitled/pion_vert.jpg8610798912#336"    cd /Users/adrien/Programmation/C++/Untitled    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/adrien/Programmation/C++/Untitled/pion_vert.jpg /Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app/Contents/Resources0#
+
+CLd /Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app/Contents/MacOS/Untitled normal i386
+s309631464.966069
+e309631464.993386
+r1
+xLd
+x/Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app/Contents/MacOS/Untitled
+xnormal
+xi386
+lSLF07#2@94"Link /Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app/Contents/MacOS/Untitled309631464#309631464#0(0"0(0#0#0"8602973856#499"    cd /Users/adrien/Programmation/C++/Untitled    /Developer/usr/bin/g++-4.2 -arch i386 -L/Users/adrien/Programmation/C++/Untitled/build/Debug -F/Users/adrien/Programmation/C++/Untitled/build/Debug -filelist /Users/adrien/Programmation/C++/Untitled/build/Untitled.build/Debug/Untitled.build/Objects-normal/i386/Untitled.LinkFileList -framework sfml-graphics -framework sfml-system -framework sfml-window -o /Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app/Contents/MacOS/Untitled0#
+
+CLd /Users/pierre-antoinemontez/Desktop/Untitled/build/Debug/Untitled.app/Contents/MacOS/Untitled normal i386
+s309730275.024231
+e309730275.051078
+r1
+xLd
+x/Users/pierre-antoinemontez/Desktop/Untitled/build/Debug/Untitled.app/Contents/MacOS/Untitled
+xnormal
+xi386
+lSLF07#2@98"Link /Users/pierre-antoinemontez/Desktop/Untitled/build/Debug/Untitled.app/Contents/MacOS/Untitled309730275#309730275#0(0"0(0#0#0"4300911832#519"    cd /Users/pierre-antoinemontez/Desktop/Untitled    /Developer/usr/bin/g++-4.2 -arch i386 -L/Users/pierre-antoinemontez/Desktop/Untitled/build/Debug -F/Users/pierre-antoinemontez/Desktop/Untitled/build/Debug -filelist /Users/pierre-antoinemontez/Desktop/Untitled/build/Untitled.build/Debug/Untitled.build/Objects-normal/i386/Untitled.LinkFileList -framework sfml-graphics -framework sfml-system -framework sfml-window -o /Users/pierre-antoinemontez/Desktop/Untitled/build/Debug/Untitled.app/Contents/MacOS/Untitled0#
+
+CPBXCp build/Debug/Untitled.app/Contents/Frameworks/sfml-graphics.framework /Library/Frameworks/sfml-graphics.framework
+s309507355.807402
+e309507356.220364
+r1
+xPBXCp
+xbuild/Debug/Untitled.app/Contents/Frameworks/sfml-graphics.framework
+x/Library/Frameworks/sfml-graphics.framework
+lSLF07#2@48"Copy /Library/Frameworks/sfml-graphics.framework309507355#309507356#0(0"0(0#0#43"/Library/Frameworks/sfml-graphics.framework8602445920#326"    cd /Users/adrien/Programmation/C++/Untitled    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Library/Frameworks/sfml-graphics.framework /Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app/Contents/Frameworks0#
+
+CPBXCp build/Debug/Untitled.app/Contents/Frameworks/sfml-system.framework /Library/Frameworks/sfml-system.framework
+s309507355.805604
+e309507356.022124
+r1
+xPBXCp
+xbuild/Debug/Untitled.app/Contents/Frameworks/sfml-system.framework
+x/Library/Frameworks/sfml-system.framework
+lSLF07#2@46"Copy /Library/Frameworks/sfml-system.framework309507355#309507356#0(0"0(0#0#41"/Library/Frameworks/sfml-system.framework8600272544#324"    cd /Users/adrien/Programmation/C++/Untitled    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Library/Frameworks/sfml-system.framework /Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app/Contents/Frameworks0#
+
+CPBXCp build/Debug/Untitled.app/Contents/Frameworks/sfml-window.framework /Library/Frameworks/sfml-window.framework
+s309507355.806487
+e309507356.028427
+r1
+xPBXCp
+xbuild/Debug/Untitled.app/Contents/Frameworks/sfml-window.framework
+x/Library/Frameworks/sfml-window.framework
+lSLF07#2@46"Copy /Library/Frameworks/sfml-window.framework309507355#309507356#0(0"0(0#0#41"/Library/Frameworks/sfml-window.framework8603649056#324"    cd /Users/adrien/Programmation/C++/Untitled    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Library/Frameworks/sfml-window.framework /Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app/Contents/Frameworks0#
+
+CProcessInfoPlistFile /Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app/Contents/Info.plist Info.plist
+s309507354.717752
+e309507354.725425
+r1
+xProcessInfoPlistFile
+x/Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app/Contents/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist309507354#309507354#0(0"0(0#0#51"/Users/adrien/Programmation/C++/Untitled/Info.plist30962612513472616#310"    cd /Users/adrien/Programmation/C++/Untitled    builtin-infoPlistUtility Info.plist -genpkginfo /Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app/Contents/Info.plist0#
+
+CProcessInfoPlistFile /Users/pierre-antoinemontez/Desktop/Untitled/build/Debug/Untitled.app/Contents/Info.plist Info.plist
+r0
+
+CTouch /Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app
+s309631464.993668
+e309631464.996560
+r1
+xTouch
+x/Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app
+lSLF07#2@71"Touch /Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app309631464#309631464#0(0"0(0#0#0"8601291776#136"    cd /Users/adrien/Programmation/C++/Untitled    /usr/bin/touch -c /Users/adrien/Programmation/C++/Untitled/build/Debug/Untitled.app0#
+
+CTouch /Users/pierre-antoinemontez/Desktop/Untitled/build/Debug/Untitled.app
+s309730275.051398
+e309730275.054846
+r1
+xTouch
+x/Users/pierre-antoinemontez/Desktop/Untitled/build/Debug/Untitled.app
+lSLF07#2@75"Touch /Users/pierre-antoinemontez/Desktop/Untitled/build/Debug/Untitled.app309730275#309730275#0(0"0(0#0#0"4300911832#144"    cd /Users/pierre-antoinemontez/Desktop/Untitled    /usr/bin/touch -c /Users/pierre-antoinemontez/Desktop/Untitled/build/Debug/Untitled.app0#
+
